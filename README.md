@@ -40,33 +40,19 @@ A função "preenche()" remove os null e coloca "nao_informado" para não haver 
 
 ### Como rodar
 
-Crie um Notebook no site https://swish.swi-prolog.org/ com a base.pl no Program e uma célula com a Query na célula subsequente. Pode ser necessário adicionar ao Program uma regra mas isso será explicitado na seção subsequente. Para criar a base.pl você roda unifica.py e depois o gera_base.py.
+Crie um Notebook no site https://swish.swi-prolog.org/ com a base.pl no Program e uma célula com a Query na célula subsequente. Pode ser necessário adicionar ao Program uma regra, mas isso será explicitado na seção subsequente. Para criar a base.pl você roda unifica.py e depois o gera_base.py.
 
 ### Perguntas a se fazer com queries em Prolog
 
-Perguntas simples:
+Perguntas:
 
-1. Qual a borda do pedido 7? 
-2. Quais pedidos custaram mais que R$ 50? 
-3. Quais pedidos aceitaram ketchup? 
-Pergunta sofisticada:
-4. Qual o preço médio dos pedidos de um estado?
+1. Qual o preço médio dos pedidos de um estado? 
+2. Qual o estado que mais pede ketchup na pizza? 
+3. Qual foi o pedido mais caro de um estado?
 
-Query em Prolog da Pergunta 1:
-```
-?- pedido(7, _, _, _, Borda, _, _, _, _).
-```
-Query em Prolog da Pergunta 2:
-```
-?- pedido(Id, _, _, _, _, _, _, _, Total), Total > 50.
-```
-Query em Prolog da Pergunta 3:
-```
-?- pedido(Id, _, _, true, _, _, _, _, _).
-```
-Query em Prolog da Pergunta 4:
+Pergunta 1:
 
-Coloque o seguinte código ao final de base.pl:
+Program:
 ```
 preco_medio_uf(UF, Media) :-
     findall(T, pedido(_, _, UF, _, _, _, _, _, T), Totais),
@@ -74,8 +60,51 @@ preco_medio_uf(UF, Media) :-
     length(Totais, N),
     Media is Soma / N.
 ```
-E faça a query com:
+Query:
+``` 
+?- preco_medio_uf('São Paulo', M).
 ```
-?- preco_medio_uf(<UF>, M).
+Esperado:
+M = 44.77 (aproximadamente)
+
+Pergunta 2:
+Program:
 ```
-Em que UF você coloca o nome da unidade federativa com aspas simples. Ele deve devolver como M=media. São Paulo deve dar a média 44.77 aproximadamente. Importante: ao se rodar novamente os scripts em Python a regra da Pergunta 4 some, daí, lembre-se de colocá-la para que a query seja corretamente feita.
+ketchup_por_uf(UF, Quantidade) :-
+    setof(U, I^pedido(I, _, U, true, _, _, _, _, _), UFs),
+    member(UF, UFs),
+    findall(Id, pedido(Id, _, UF, true, _, _, _, _, _), Ids),
+    length(Ids, Quantidade).
+
+uf_mais_ketchup(UF, Quantidade) :-
+    findall(Q-U, ketchup_por_uf(U, Q), Pares),
+    sort(Pares, Ordenados),
+    reverse(Ordenados, [Quantidade-UF | _]).
+``` 
+Query:
+```
+?- uf_mais_ketchup(UF, Q).
+```
+Esperado:
+Q = 124
+UF = 'São Paulo'
+
+Pergunta 3:
+Program:
+```
+pedido_mais_caro_uf(UF, Id, Total) :-
+    findall(T-I, pedido(I, _, UF, _, _, _, _, _, T), Pares),
+    sort(Pares, Ordenados),
+    reverse(Ordenados, [Total-Id | _]).
+```
+
+Query:
+```
+?- pedido_mais_caro_uf('São Paulo', Id, Total).
+```
+Esperado:
+Id = 478
+Total = 67
+
+É feita o Program que é colocado na célula Program para indicar uma regra e a query numa célula Query no SWISH. Lembre-se de colocar o Program antes da Query.
+
