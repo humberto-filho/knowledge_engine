@@ -1,0 +1,1107 @@
+idPedido,dtPedido,descUF,flKetchup,borda,massa,bebida,qtdItens,precoTotal
+0,2023-05-11T10:59:33.000+0000,Goiás,null,borda tradicional,massa final,refrigerante,10,41.75
+1,2023-05-11T11:23:42.000+0000,Paraná,null,cheddar,massa tradicional,refrigerante,10,51.45
+2,2023-05-11T11:24:29.000+0000,São Paulo,null,sabor catupiry,massa final,cerveja,10,46.25
+3,2023-05-11T11:29:39.000+0000,São Paulo,null,cheddar,massa tradicional,refrigerante,7,37.45
+4,2023-05-11T11:31:30.000+0000,Rio Grande do Sul,null,borda tradicional,massa grossa,suco de laranja,10,45.5
+5,2023-05-11T11:32:44.000+0000,São Paulo,null,cream cheese,massa tradicional,suco de laranja,8,41.75
+6,2023-05-11T11:47:54.000+0000,Ceará,null,sabor catupiry,massa grossa,suco de laranja,9,43.0
+7,2023-05-11T11:52:31.000+0000,São Paulo,null,cream cheese,massa tradicional,cerveja,10,49.45
+8,2023-05-11T12:01:49.000+0000,Goiás,null,borda tradicional,massa final,refrigerante,10,51.0
+9,2023-05-11T12:18:25.000+0000,Rio de Janeiro,true,sabor catupiry,massa final,água com gás,10,53.5
+10,2023-05-11T12:19:47.000+0000,Goiás,true,cheddar,massa grossa,refrigerante,10,57.45
+11,2023-05-11T12:45:48.000+0000,Minas Gerais,true,cheddar,massa tradicional,água com gás,10,48.7
+12,2023-05-11T12:56:52.000+0000,São Paulo,false,cream cheese,massa integral,cerveja,10,56.25
+13,2023-05-11T13:05:24.000+0000,Rio Grande do Sul,false,sabor catupiry,massa final,vinho tinto,10,62.0
+14,2023-05-11T13:33:49.000+0000,São Paulo,true,sabor catupiry,massa final,suco de laranja,10,45.5
+15,2023-05-11T14:19:14.000+0000,São Paulo,false,sabor catupiry,massa tradicional,suco de uva,10,43.5
+16,2023-05-11T14:47:39.000+0000,São Paulo,false,sabor catupiry,massa tradicional,cerveja,6,38.0
+17,2023-05-11T15:16:49.000+0000,São Paulo,false,borda tradicional,massa grossa,refrigerante,8,44.0
+18,2023-05-11T15:36:52.000+0000,Santa Catarina,true,borda tradicional,massa tradicional,refrigerante,10,44.25
+19,2023-05-11T15:48:08.000+0000,Bahia,true,borda tradicional,massa tradicional,refrigerante,9,31.5
+20,2023-05-11T16:40:11.000+0000,São Paulo,true,sabor catupiry,massa final,suco de maracujá,10,46.5
+21,2023-05-11T16:45:29.000+0000,Alagoas,false,borda tradicional,massa final,suco de laranja,10,41.25
+22,2023-05-11T17:05:02.000+0000,São Paulo,true,sabor catupiry,massa final,vinho tinto,10,53.75
+23,2023-05-11T17:22:38.000+0000,Paraná,true,borda tradicional,massa grossa,refrigerante,10,44.75
+24,2023-05-11T17:41:33.000+0000,Paraná,false,borda tradicional,massa final,refrigerante,10,37.25
+25,2023-05-11T18:02:37.000+0000,Rio de Janeiro,true,cream cheese,massa grossa,chá gelado,10,54.25
+26,2023-05-11T18:55:53.000+0000,Rio de Janeiro,false,borda tradicional,massa final,vinho tinto,7,34.0
+27,2023-05-11T19:45:59.000+0000,Bahia,true,sabor catupiry,massa tradicional,vinho tinto,10,62.75
+28,2023-05-11T21:33:08.000+0000,Minas Gerais,false,sabor catupiry,massa tradicional,vinho tinto,10,52.25
+29,2023-05-12T01:09:17.000+0000,São Paulo,false,sabor catupiry,massa final,refrigerante,10,45.75
+30,2023-05-12T09:56:30.000+0000,São Paulo,true,cream cheese,massa tradicional,chá gelado,10,50.75
+31,2023-05-12T15:13:58.000+0000,Santa Catarina,false,borda tradicional,massa tradicional,,8,27.25
+32,2023-05-12T15:17:59.000+0000,Rio de Janeiro,true,borda tradicional,massa tradicional,refrigerante,10,41.5
+33,2023-05-12T15:34:37.000+0000,Minas Gerais,false,borda tradicional,massa tradicional,cerveja,10,40.5
+34,2023-05-12T15:34:45.000+0000,Distrito Federal,true,sabor catupiry,massa final,suco de abacaxi,10,46.0
+35,2023-05-12T15:45:07.000+0000,Distrito Federal,true,borda tradicional,massa final,cerveja,7,33.75
+36,2023-05-12T15:48:02.000+0000,Paraíba,false,cream cheese,massa final,refrigerante,10,47.25
+37,2023-05-12T15:48:17.000+0000,Rio Grande do Sul,true,sabor catupiry,massa tradicional,refrigerante,10,45.95
+38,2023-05-12T15:55:35.000+0000,Bahia,false,borda tradicional,massa tradicional,vinho tinto,10,60.5
+39,2023-05-12T16:07:08.000+0000,Distrito Federal,false,sabor catupiry,massa tradicional,suco de uva,10,56.0
+40,2023-05-12T16:19:19.000+0000,Paraná,true,sabor catupiry,massa grossa,cerveja,10,49.25
+41,2023-05-12T16:27:09.000+0000,Distrito Federal,false,borda tradicional,massa tradicional,refrigerante,10,40.5
+42,2023-05-12T16:35:59.000+0000,São Paulo,false,borda tradicional,massa tradicional,refrigerante,10,40.5
+43,2023-05-12T16:52:02.000+0000,São Paulo,true,borda tradicional,massa tradicional,suco de laranja,10,40.25
+44,2023-05-12T17:06:11.000+0000,Santa Catarina,true,sabor catupiry,massa final,água com gás,6,28.0
+45,2023-05-12T17:13:16.000+0000,Paraná,true,cheddar,massa tradicional,suco de abacaxi,10,51.65
+46,2023-05-12T18:24:24.000+0000,São Paulo,true,cream cheese,massa tradicional,refrigerante,10,53.95
+47,2023-05-12T18:35:58.000+0000,São Paulo,false,sabor catupiry,massa grossa,suco de laranja,10,51.75
+48,2023-05-12T18:48:00.000+0000,Mato Grosso do Sul,true,sabor catupiry,massa tradicional,cerveja,10,57.25
+49,2023-05-12T19:05:08.000+0000,Piauí,true,sabor catupiry,massa tradicional,suco de laranja,10,47.75
+50,2023-05-12T19:08:02.000+0000,São Paulo,true,borda tradicional,massa tradicional,vinho tinto,9,43.75
+51,2023-05-12T19:21:02.000+0000,Goiás,true,sabor catupiry,massa tradicional,suco de abacaxi,10,52.0
+52,2023-05-12T19:50:08.000+0000,São Paulo,true,borda tradicional,massa tradicional,suco de laranja,10,42.25
+53,2023-05-12T19:53:51.000+0000,São Paulo,true,cream cheese,massa tradicional,refrigerante,10,51.0
+54,2023-05-12T20:22:35.000+0000,São Paulo,false,borda tradicional,massa tradicional,refrigerante,10,42.0
+55,2023-05-12T20:47:23.000+0000,São Paulo,false,borda tradicional,massa tradicional,vinho tinto,10,46.25
+56,2023-05-12T20:49:42.000+0000,Santa Catarina,true,sabor catupiry,massa tradicional,refrigerante,10,56.95
+57,2023-05-12T20:54:45.000+0000,Rio Grande do Sul,true,borda tradicional,massa tradicional,suco de laranja,10,40.25
+58,2023-05-12T20:55:57.000+0000,São Paulo,false,sabor catupiry,massa tradicional,refrigerante,10,42.5
+59,2023-05-12T21:09:39.000+0000,Rio Grande do Sul,true,cheddar,massa integral,suco de abacaxi,10,57.95
+60,2023-05-12T21:22:54.000+0000,Espírito Santo,false,borda tradicional,massa tradicional,refrigerante,9,42.5
+61,2023-05-12T21:23:58.000+0000,Rio de Janeiro,false,borda tradicional,massa final,água com gás,10,42.75
+62,2023-05-12T21:38:00.000+0000,Santa Catarina,true,cheddar,massa final,cerveja,10,46.2
+63,2023-05-12T21:43:09.000+0000,São Paulo,false,sabor catupiry,massa final,cerveja,10,45.75
+64,2023-05-12T22:15:54.000+0000,Pernambuco,false,sabor catupiry,massa tradicional,refrigerante,7,46.5
+65,2023-05-12T22:39:36.000+0000,Mato Grosso,false,sabor catupiry,massa tradicional,vinho tinto,10,52.5
+66,2023-05-12T22:41:04.000+0000,São Paulo,false,borda tradicional,massa tradicional,refrigerante,10,43.5
+67,2023-05-12T22:46:46.000+0000,São Paulo,false,borda tradicional,massa tradicional,refrigerante,5,25.0
+68,2023-05-12T23:05:46.000+0000,São Paulo,true,sabor catupiry,massa final,cerveja,10,42.75
+69,2023-05-12T23:08:45.000+0000,Pernambuco,false,borda tradicional,massa tradicional,refrigerante,10,38.0
+70,2023-05-12T23:41:49.000+0000,São Paulo,true,cheddar,massa tradicional,suco de maracujá,10,47.7
+71,2023-05-13T00:03:18.000+0000,São Paulo,true,sabor catupiry,massa tradicional,suco de uva,10,51.75
+72,2023-05-13T00:57:04.000+0000,São Paulo,false,cheddar,massa tradicional,cerveja,10,53.95
+73,2023-05-13T05:39:17.000+0000,Rio de Janeiro,true,cheddar,massa tradicional,vinho tinto,10,53.7
+74,2023-05-13T07:47:04.000+0000,Rio Grande do Norte,false,sabor catupiry,massa final,refrigerante,10,48.45
+75,2023-05-13T08:38:24.000+0000,São Paulo,false,sabor catupiry,massa tradicional,suco de maracujá,10,47.25
+76,2023-05-13T08:52:14.000+0000,Minas Gerais,false,cream cheese,massa tradicional,suco de maracujá,10,49.25
+77,2023-05-13T09:01:43.000+0000,Minas Gerais,false,borda tradicional,massa final,suco de laranja,8,40.0
+78,2023-05-13T09:24:00.000+0000,Espírito Santo,false,borda tradicional,massa tradicional,chá gelado,8,37.75
+79,2023-05-13T09:55:56.000+0000,Rio de Janeiro,true,cheddar,massa tradicional,refrigerante,10,51.45
+80,2023-05-13T10:03:10.000+0000,São Paulo,false,borda tradicional,massa final,refrigerante,10,41.25
+81,2023-05-13T10:38:55.000+0000,Ceará,true,sabor catupiry,massa final,cerveja,10,42.75
+82,2023-05-13T11:30:18.000+0000,São Paulo,false,sabor catupiry,massa final,água com gás,10,47.45
+83,2023-05-13T11:36:15.000+0000,Rio de Janeiro,false,sabor catupiry,massa tradicional,cerveja,10,48.75
+84,2023-05-13T11:40:12.000+0000,Distrito Federal,false,cream cheese,massa tradicional,limonada,10,50.25
+85,2023-05-13T11:48:06.000+0000,Goiás,true,borda tradicional,massa final,cerveja,10,39.7
+86,2023-05-13T11:49:24.000+0000,São Paulo,true,cream cheese,massa tradicional,suco de laranja,10,52.75
+87,2023-05-13T11:56:10.000+0000,São Paulo,false,sabor catupiry,massa tradicional,refrigerante,9,48.25
+88,2023-05-13T12:16:02.000+0000,Rio de Janeiro,true,cheddar,massa grossa,refrigerante,10,56.7
+89,2023-05-13T12:23:30.000+0000,Rio de Janeiro,false,sabor catupiry,massa tradicional,chá gelado,10,42.25
+90,2023-05-13T12:34:32.000+0000,Ceará,true,cream cheese,massa tradicional,vinho tinto,10,56.25
+91,2023-05-13T12:57:01.000+0000,São Paulo,false,sabor catupiry,massa tradicional,suco de laranja,10,45.75
+92,2023-05-13T14:03:41.000+0000,Pernambuco,false,borda tradicional,massa final,água com gás,8,34.5
+93,2023-05-13T14:09:47.000+0000,São Paulo,false,borda tradicional,massa tradicional,suco de laranja,10,43.5
+94,2023-05-13T14:27:23.000+0000,Rio Grande do Norte,true,sabor catupiry,massa tradicional,limonada,10,49.75
+95,2023-05-13T14:35:59.000+0000,Mato Grosso,false,borda tradicional,massa final,suco de uva,10,43.5
+96,2023-05-13T15:01:23.000+0000,Piauí,true,sabor catupiry,massa tradicional,refrigerante,7,35.5
+97,2023-05-13T15:20:52.000+0000,Ceará,false,borda tradicional,massa tradicional,suco de abacaxi,10,45.25
+98,2023-05-13T15:41:12.000+0000,Minas Gerais,false,cheddar,massa tradicional,refrigerante,10,52.4
+99,2023-05-13T16:29:04.000+0000,Paraná,false,sabor catupiry,massa tradicional,limonada,9,48.5
+100,2023-05-13T16:46:30.000+0000,São Paulo,true,borda tradicional,massa integral,chá gelado,10,49.25
+101,2023-05-13T16:58:50.000+0000,São Paulo,false,sabor catupiry,massa grossa,limonada,10,46.0
+102,2023-05-13T18:28:26.000+0000,Rio de Janeiro,true,sabor catupiry,massa tradicional,suco de laranja,10,46.25
+103,2023-05-13T18:34:30.000+0000,Goiás,false,borda tradicional,massa final,cerveja,10,37.75
+104,2023-05-13T19:43:50.000+0000,São Paulo,false,borda tradicional,massa tradicional,suco de laranja,10,43.5
+105,2023-05-13T20:12:30.000+0000,Ceará,false,borda tradicional,massa final,suco de laranja,10,42.5
+106,2023-05-13T20:34:14.000+0000,Goiás,true,borda tradicional,massa tradicional,refrigerante,10,41.5
+107,2023-05-13T21:08:51.000+0000,Paraná,false,cheddar,massa tradicional,cerveja,10,54.4
+108,2023-05-13T21:58:49.000+0000,Rio Grande do Sul,true,cheddar,massa tradicional,refrigerante,10,51.4
+109,2023-05-13T22:14:21.000+0000,Ceará,false,cheddar,massa tradicional,cerveja,10,51.45
+110,2023-05-13T22:58:13.000+0000,Espírito Santo,true,sabor catupiry,massa tradicional,refrigerante,10,46.45
+111,2023-05-13T23:33:55.000+0000,São Paulo,false,borda tradicional,massa tradicional,vinho tinto,8,40.75
+112,2023-05-13T23:40:43.000+0000,Minas Gerais,true,cream cheese,massa tradicional,cerveja,10,49.5
+113,2023-05-14T00:14:34.000+0000,São Paulo,true,sabor catupiry,massa grossa,refrigerante,10,58.5
+114,2023-05-14T04:44:51.000+0000,Rio de Janeiro,false,sabor catupiry,massa tradicional,refrigerante,10,48.95
+115,2023-05-14T06:53:14.000+0000,Paraná,true,borda tradicional,massa tradicional,suco de abacaxi,10,38.25
+116,2023-05-14T07:21:37.000+0000,Bahia,false,borda tradicional,massa final,refrigerante,10,38.25
+117,2023-05-14T08:08:52.000+0000,São Paulo,false,borda tradicional,massa tradicional,refrigerante,8,35.5
+118,2023-05-14T09:32:54.000+0000,Paraíba,true,borda tradicional,massa final,vinho tinto,9,47.5
+119,2023-05-14T12:11:35.000+0000,Rio Grande do Sul,false,borda tradicional,massa final,água com gás,10,42.25
+120,2023-05-14T14:48:37.000+0000,Rio de Janeiro,false,cream cheese,massa final,refrigerante,10,50.0
+121,2023-05-14T15:52:33.000+0000,São Paulo,true,sabor catupiry,massa tradicional,cerveja,10,53.7
+122,2023-05-14T16:09:07.000+0000,Rio de Janeiro,true,cheddar,massa grossa,suco de laranja,9,49.9
+123,2023-05-14T16:12:15.000+0000,Pará,true,cheddar,massa tradicional,suco de laranja,10,50.2
+124,2023-05-14T16:22:37.000+0000,Espírito Santo,false,borda tradicional,massa tradicional,vinho tinto,4,26.25
+125,2023-05-14T16:35:09.000+0000,São Paulo,true,sabor catupiry,massa tradicional,limonada,10,49.0
+126,2023-05-14T18:08:31.000+0000,Goiás,true,sabor catupiry,massa tradicional,cerveja,8,44.0
+127,2023-05-14T18:38:38.000+0000,São Paulo,false,borda tradicional,massa final,suco de maracujá,10,38.95
+128,2023-05-14T19:07:06.000+0000,São Paulo,false,sabor catupiry,massa grossa,suco de laranja,10,56.0
+129,2023-05-14T19:14:14.000+0000,Goiás,true,borda tradicional,massa tradicional,refrigerante,10,41.45
+130,2023-05-14T19:36:32.000+0000,São Paulo,false,sabor catupiry,massa integral,suco de maracujá,10,54.7
+131,2023-05-14T19:55:46.000+0000,Rio de Janeiro,false,cream cheese,massa final,suco de uva,8,37.25
+132,2023-05-14T21:50:41.000+0000,Goiás,true,sabor catupiry,massa tradicional,refrigerante,10,50.45
+133,2023-05-14T23:12:40.000+0000,Goiás,true,borda tradicional,massa tradicional,refrigerante,10,40.95
+134,2023-05-14T23:38:42.000+0000,Rio Grande do Sul,false,borda tradicional,massa final,água com gás,8,26.0
+135,2023-05-15T02:25:38.000+0000,Pernambuco,true,cream cheese,massa final,refrigerante,10,49.75
+136,2023-05-15T07:44:46.000+0000,São Paulo,true,sabor catupiry,massa tradicional,água com gás,10,55.45
+137,2023-05-15T07:54:31.000+0000,Rio de Janeiro,true,borda tradicional,massa grossa,suco de maracujá,10,47.5
+138,2023-05-15T08:26:26.000+0000,Minas Gerais,true,cheddar,massa tradicional,refrigerante,10,51.4
+139,2023-05-15T08:36:15.000+0000,Paraná,true,borda tradicional,massa tradicional,refrigerante,10,41.95
+140,2023-05-15T08:50:03.000+0000,São Paulo,true,sabor catupiry,massa tradicional,refrigerante,10,44.5
+141,2023-05-15T08:53:53.000+0000,Paraná,true,cream cheese,massa tradicional,suco de laranja,10,54.75
+142,2023-05-15T08:58:23.000+0000,Santa Catarina,false,sabor catupiry,massa tradicional,vinho tinto,10,56.0
+143,2023-05-15T09:03:05.000+0000,Paraná,false,borda tradicional,massa final,refrigerante,10,40.5
+144,2023-05-15T09:17:08.000+0000,Minas Gerais,false,cheddar,massa grossa,água com gás,10,54.95
+145,2023-05-15T09:28:23.000+0000,Rio Grande do Sul,true,sabor catupiry,massa final,suco de laranja,10,47.45
+146,2023-05-15T09:28:44.000+0000,Ceará,true,sabor catupiry,massa tradicional,refrigerante,10,50.0
+147,2023-05-15T09:59:50.000+0000,Rio de Janeiro,true,sabor catupiry,massa tradicional,chá gelado,10,53.75
+148,2023-05-15T10:59:31.000+0000,Rio de Janeiro,true,borda tradicional,massa tradicional,vinho tinto,10,48.25
+149,2023-05-15T11:56:49.000+0000,Minas Gerais,false,borda tradicional,massa final,cerveja,8,22.75
+150,2023-05-15T12:04:43.000+0000,Minas Gerais,true,borda tradicional,massa tradicional,suco de laranja,10,45.5
+151,2023-05-15T12:55:34.000+0000,Bahia,true,borda tradicional,massa tradicional,,9,33.25
+152,2023-05-15T12:57:46.000+0000,São Paulo,false,cream cheese,massa final,refrigerante,10,48.25
+153,2023-05-15T13:00:56.000+0000,Espírito Santo,false,borda tradicional,massa grossa,cerveja,8,27.75
+154,2023-05-15T13:18:46.000+0000,Ceará,false,sabor catupiry,massa tradicional,suco de abacaxi,9,39.25
+155,2023-05-15T14:03:25.000+0000,Distrito Federal,true,borda tradicional,massa tradicional,refrigerante,8,35.5
+156,2023-05-15T14:37:43.000+0000,Paraíba,true,cream cheese,massa final,suco de laranja,10,53.0
+157,2023-05-15T14:38:40.000+0000,Paraná,false,borda tradicional,massa final,vinho tinto,10,46.5
+158,2023-05-15T14:38:49.000+0000,São Paulo,false,sabor catupiry,massa tradicional,cerveja,10,47.0
+159,2023-05-15T16:16:44.000+0000,Espírito Santo,true,sabor catupiry,massa final,refrigerante,10,41.75
+160,2023-05-15T18:11:49.000+0000,Mato Grosso,false,cheddar,massa tradicional,refrigerante,10,46.45
+161,2023-05-15T18:27:26.000+0000,Mato Grosso,false,sabor catupiry,massa final,vinho tinto,10,49.45
+162,2023-05-15T19:34:37.000+0000,Paraná,false,cream cheese,massa grossa,suco de abacaxi,10,53.0
+163,2023-05-15T19:48:09.000+0000,Bahia,true,borda tradicional,massa final,cerveja,10,38.2
+164,2023-05-15T19:59:30.000+0000,São Paulo,true,borda tradicional,massa final,refrigerante,7,28.75
+165,2023-05-15T20:15:58.000+0000,Rio Grande do Sul,false,sabor catupiry,massa tradicional,vinho tinto,7,45.25
+166,2023-05-15T20:36:22.000+0000,São Paulo,false,sabor catupiry,massa final,refrigerante,7,31.75
+167,2023-05-15T21:09:09.000+0000,Rondônia,true,borda tradicional,massa tradicional,cerveja,10,46.5
+168,2023-05-15T21:23:34.000+0000,Santa Catarina,false,sabor catupiry,massa tradicional,suco de laranja,6,30.75
+169,2023-05-15T21:54:15.000+0000,Minas Gerais,false,sabor catupiry,massa tradicional,suco de laranja,10,45.7
+170,2023-05-15T23:02:43.000+0000,Rio Grande do Sul,true,sabor catupiry,massa grossa,refrigerante,10,49.25
+171,2023-05-15T23:30:52.000+0000,Distrito Federal,false,cream cheese,massa tradicional,suco de abacaxi,10,46.75
+172,2023-05-16T03:46:53.000+0000,Espírito Santo,true,sabor catupiry,massa tradicional,cerveja,10,46.5
+173,2023-05-16T07:24:01.000+0000,São Paulo,true,borda tradicional,massa final,refrigerante,10,37.25
+174,2023-05-16T07:24:26.000+0000,Rio de Janeiro,true,borda tradicional,massa tradicional,refrigerante,10,38.5
+175,2023-05-16T08:15:15.000+0000,São Paulo,false,sabor catupiry,massa tradicional,refrigerante,9,39.5
+176,2023-05-16T08:37:37.000+0000,Rio de Janeiro,false,borda tradicional,massa tradicional,chá gelado,9,41.5
+177,2023-05-16T09:29:47.000+0000,Ceará,true,sabor catupiry,massa final,refrigerante,10,45.25
+178,2023-05-16T09:30:19.000+0000,São Paulo,false,sabor catupiry,massa grossa,suco de uva,10,52.75
+179,2023-05-16T09:47:38.000+0000,Rio Grande do Norte,true,borda tradicional,massa tradicional,cerveja,10,43.0
+180,2023-05-16T11:18:18.000+0000,Pernambuco,true,cheddar,massa final,refrigerante,10,47.2
+181,2023-05-16T11:27:28.000+0000,São Paulo,true,sabor catupiry,massa tradicional,cerveja,10,55.0
+182,2023-05-16T13:08:14.000+0000,Rio de Janeiro,true,cheddar,massa final,limonada,10,47.4
+183,2023-05-16T13:34:35.000+0000,Rio Grande do Sul,false,cheddar,massa final,água com gás,10,46.95
+184,2023-05-16T14:13:50.000+0000,São Paulo,true,borda tradicional,massa tradicional,suco de abacaxi,10,43.75
+185,2023-05-16T15:51:07.000+0000,Mato Grosso,true,sabor catupiry,massa tradicional,água com gás,9,34.25
+186,2023-05-16T15:52:52.000+0000,Minas Gerais,false,sabor catupiry,massa final,refrigerante,10,43.75
+187,2023-05-16T15:54:04.000+0000,São Paulo,false,sabor catupiry,massa tradicional,refrigerante,10,47.5
+188,2023-05-16T15:56:43.000+0000,Paraná,true,sabor catupiry,massa grossa,refrigerante,7,39.25
+189,2023-05-16T15:59:57.000+0000,São Paulo,false,borda tradicional,massa tradicional,limonada,10,43.0
+190,2023-05-16T16:03:58.000+0000,São Paulo,false,sabor catupiry,massa tradicional,refrigerante,10,47.0
+191,2023-05-16T16:04:34.000+0000,Santa Catarina,true,sabor catupiry,massa final,água com gás,10,43.95
+192,2023-05-16T16:11:57.000+0000,Rio Grande do Sul,true,cheddar,massa final,vinho tinto,10,53.45
+193,2023-05-16T16:12:54.000+0000,Minas Gerais,true,sabor catupiry,massa tradicional,refrigerante,8,45.95
+194,2023-05-16T16:18:04.000+0000,São Paulo,false,cream cheese,massa tradicional,cerveja,10,54.0
+195,2023-05-16T16:24:19.000+0000,Rio Grande do Sul,false,borda tradicional,massa final,vinho tinto,9,43.0
+196,2023-05-16T16:33:52.000+0000,Bahia,true,borda tradicional,massa final,cerveja,10,37.75
+197,2023-05-16T17:04:04.000+0000,Mato Grosso,true,cheddar,massa grossa,refrigerante,10,53.15
+198,2023-05-16T17:16:11.000+0000,Rio Grande do Sul,false,borda tradicional,massa final,refrigerante,9,37.25
+199,2023-05-16T17:31:20.000+0000,Minas Gerais,true,borda tradicional,massa tradicional,limonada,10,39.2
+200,2023-05-16T17:43:03.000+0000,Bahia,true,cream cheese,massa tradicional,limonada,10,48.75
+201,2023-05-16T18:27:43.000+0000,Maranhão,true,cheddar,massa tradicional,refrigerante,10,52.95
+202,2023-05-16T19:36:34.000+0000,São Paulo,true,sabor catupiry,massa tradicional,cerveja,10,47.95
+203,2023-05-16T19:39:35.000+0000,São Paulo,false,sabor catupiry,massa tradicional,vinho tinto,10,49.25
+204,2023-05-16T20:00:49.000+0000,São Paulo,false,cheddar,massa tradicional,suco de laranja,9,52.2
+205,2023-05-16T20:08:23.000+0000,São Paulo,false,borda tradicional,massa tradicional,cerveja,10,40.0
+206,2023-05-16T20:33:16.000+0000,São Paulo,false,borda tradicional,massa integral,cerveja,10,47.25
+207,2023-05-16T20:37:29.000+0000,Rio de Janeiro,true,sabor catupiry,massa final,refrigerante,10,54.5
+208,2023-05-16T20:41:47.000+0000,Paraná,false,sabor catupiry,massa final,vinho tinto,10,51.5
+209,2023-05-16T20:57:43.000+0000,Sergipe,true,cream cheese,massa grossa,refrigerante,10,57.5
+210,2023-05-16T21:13:51.000+0000,Pernambuco,false,sabor catupiry,massa tradicional,suco de laranja,10,46.7
+211,2023-05-16T21:43:58.000+0000,Goiás,true,cream cheese,massa final,cerveja,10,52.25
+212,2023-05-16T22:16:05.000+0000,Rio de Janeiro,true,sabor catupiry,massa tradicional,refrigerante,10,50.0
+213,2023-05-16T22:50:56.000+0000,Ceará,false,borda tradicional,massa tradicional,refrigerante,9,37.5
+214,2023-05-16T23:44:54.000+0000,Minas Gerais,true,cheddar,massa tradicional,suco de abacaxi,9,44.2
+215,2023-05-17T08:35:00.000+0000,São Paulo,false,borda tradicional,massa tradicional,suco de laranja,10,39.25
+216,2023-05-17T08:36:50.000+0000,São Paulo,false,sabor catupiry,massa final,cerveja,10,40.75
+217,2023-05-17T09:14:36.000+0000,São Paulo,true,sabor catupiry,massa tradicional,cerveja,10,45.5
+218,2023-05-17T09:25:39.000+0000,Minas Gerais,true,sabor catupiry,massa tradicional,cerveja,9,48.45
+219,2023-05-17T09:28:31.000+0000,Santa Catarina,false,sabor catupiry,massa final,água com gás,8,33.5
+220,2023-05-17T10:20:22.000+0000,Rio de Janeiro,true,cream cheese,massa tradicional,cerveja,10,53.5
+221,2023-05-17T10:29:46.000+0000,Paraná,false,borda tradicional,massa tradicional,cerveja,10,42.5
+222,2023-05-17T10:52:46.000+0000,Santa Catarina,false,cheddar,massa tradicional,água com gás,10,54.2
+223,2023-05-17T10:55:05.000+0000,Santa Catarina,true,cream cheese,massa final,refrigerante,10,47.25
+224,2023-05-17T10:56:39.000+0000,Minas Gerais,false,sabor catupiry,massa tradicional,cerveja,9,44.0
+225,2023-05-17T11:12:43.000+0000,Pernambuco,false,borda tradicional,massa final,cerveja,10,39.25
+226,2023-05-17T11:33:29.000+0000,São Paulo,false,sabor catupiry,massa tradicional,,9,43.0
+227,2023-05-17T11:34:34.000+0000,Pernambuco,true,cream cheese,massa tradicional,refrigerante,10,49.0
+228,2023-05-17T11:46:01.000+0000,Ceará,true,cheddar,massa tradicional,suco de laranja,10,47.7
+229,2023-05-17T12:11:53.000+0000,Minas Gerais,false,sabor catupiry,massa tradicional,refrigerante,10,49.45
+230,2023-05-17T12:18:13.000+0000,Paraná,false,borda tradicional,massa final,suco de maracujá,9,35.5
+231,2023-05-17T12:26:05.000+0000,Bahia,false,sabor catupiry,massa tradicional,refrigerante,10,48.75
+232,2023-05-17T12:30:10.000+0000,Rio de Janeiro,true,sabor catupiry,massa final,cerveja,10,41.75
+233,2023-05-17T12:42:21.000+0000,Alagoas,false,borda tradicional,massa final,cerveja,10,45.5
+234,2023-05-17T12:42:26.000+0000,São Paulo,false,borda tradicional,massa grossa,limonada,8,42.5
+235,2023-05-17T13:15:41.000+0000,São Paulo,false,sabor catupiry,massa tradicional,refrigerante,10,45.5
+236,2023-05-17T13:24:11.000+0000,Rio Grande do Norte,true,borda tradicional,massa grossa,chá gelado,10,47.95
+237,2023-05-17T14:55:07.000+0000,Pernambuco,true,borda tradicional,massa tradicional,chá gelado,10,39.75
+238,2023-05-17T15:17:13.000+0000,São Paulo,false,sabor catupiry,massa grossa,chá gelado,9,42.5
+239,2023-05-17T16:30:18.000+0000,Pernambuco,false,sabor catupiry,massa tradicional,refrigerante,9,47.95
+240,2023-05-17T16:34:30.000+0000,Pernambuco,false,borda tradicional,massa final,limonada,10,38.0
+241,2023-05-17T17:13:52.000+0000,São Paulo,true,borda tradicional,massa tradicional,água com gás,5,16.75
+242,2023-05-17T17:23:19.000+0000,São Paulo,false,borda tradicional,massa final,refrigerante,9,40.25
+243,2023-05-17T19:55:59.000+0000,Rio de Janeiro,true,cream cheese,massa tradicional,suco de laranja,10,52.25
+244,2023-05-17T20:52:27.000+0000,São Paulo,true,borda tradicional,massa tradicional,vinho tinto,10,49.25
+245,2023-05-17T21:55:17.000+0000,Espírito Santo,true,cream cheese,massa tradicional,suco de abacaxi,10,54.25
+246,2023-05-18T01:33:54.000+0000,São Paulo,true,borda tradicional,massa final,refrigerante,10,45.5
+247,2023-05-18T08:32:06.000+0000,Ceará,true,cream cheese,massa tradicional,refrigerante,7,40.0
+248,2023-05-18T08:32:43.000+0000,Paraíba,false,borda tradicional,massa tradicional,limonada,10,44.25
+249,2023-05-18T09:27:47.000+0000,Rio Grande do Sul,false,cream cheese,massa tradicional,limonada,10,50.7
+250,2023-05-18T09:36:49.000+0000,Rio Grande do Sul,false,borda tradicional,massa final,suco de laranja,10,42.5
+251,2023-05-18T09:38:39.000+0000,Rio Grande do Sul,true,borda tradicional,massa tradicional,refrigerante,8,36.5
+252,2023-05-18T10:01:51.000+0000,São Paulo,true,sabor catupiry,massa tradicional,água com gás,10,44.25
+253,2023-05-18T10:16:54.000+0000,Rondônia,true,sabor catupiry,massa final,suco de laranja,8,36.5
+254,2023-05-18T12:04:37.000+0000,Rio Grande do Sul,false,borda tradicional,massa tradicional,cerveja,10,39.0
+255,2023-05-18T12:14:16.000+0000,São Paulo,false,cheddar,massa tradicional,suco de uva,10,48.95
+256,2023-05-18T12:53:42.000+0000,Goiás,true,sabor catupiry,massa tradicional,refrigerante,9,43.0
+257,2023-05-18T13:42:10.000+0000,São Paulo,true,borda tradicional,massa tradicional,suco de laranja,10,43.75
+258,2023-05-18T13:50:46.000+0000,São Paulo,true,cream cheese,massa tradicional,refrigerante,9,50.25
+259,2023-05-18T13:58:08.000+0000,São Paulo,true,borda tradicional,massa final,água com gás,10,35.5
+260,2023-05-18T15:27:07.000+0000,Distrito Federal,false,cheddar,massa final,suco de abacaxi,10,59.15
+261,2023-05-18T16:29:25.000+0000,Santa Catarina,false,borda tradicional,massa final,vinho tinto,4,22.5
+262,2023-05-18T16:42:53.000+0000,Pernambuco,false,borda tradicional,massa tradicional,refrigerante,8,27.5
+263,2023-05-18T17:08:57.000+0000,Alagoas,false,borda tradicional,massa tradicional,suco de abacaxi,10,40.25
+264,2023-05-18T18:46:16.000+0000,Pernambuco,false,borda tradicional,massa tradicional,refrigerante,10,38.5
+265,2023-05-19T00:13:57.000+0000,Piauí,false,cheddar,massa tradicional,água com gás,10,55.45
+266,2023-05-19T07:52:38.000+0000,São Paulo,false,sabor catupiry,massa tradicional,suco de laranja,10,47.2
+267,2023-05-19T08:05:39.000+0000,Bahia,true,cheddar,massa tradicional,chá gelado,10,54.15
+268,2023-05-19T09:29:44.000+0000,Rio de Janeiro,false,cream cheese,massa tradicional,suco de uva,10,47.0
+269,2023-05-19T10:26:01.000+0000,Sergipe,true,borda tradicional,massa integral,vinho tinto,10,63.75
+270,2023-05-19T10:30:40.000+0000,Rio de Janeiro,false,cheddar,massa grossa,suco de maracujá,10,55.45
+271,2023-05-19T11:52:47.000+0000,São Paulo,true,cream cheese,massa grossa,chá gelado,10,57.0
+272,2023-05-19T11:59:32.000+0000,São Paulo,false,cream cheese,massa grossa,refrigerante,10,53.25
+273,2023-05-19T12:47:32.000+0000,São Paulo,false,borda tradicional,massa final,refrigerante,10,36.75
+274,2023-05-19T12:51:49.000+0000,Minas Gerais,false,borda tradicional,massa tradicional,refrigerante,8,38.95
+275,2023-05-19T14:46:43.000+0000,São Paulo,false,borda tradicional,massa final,água com gás,7,29.25
+276,2023-05-19T15:29:09.000+0000,São Paulo,true,sabor catupiry,massa final,suco de laranja,10,50.5
+277,2023-05-19T15:40:39.000+0000,Maranhão,true,borda tradicional,massa final,cerveja,10,36.25
+278,2023-05-19T15:43:14.000+0000,Bahia,false,borda tradicional,massa final,chá gelado,9,38.25
+279,2023-05-19T16:13:34.000+0000,Paraná,true,borda tradicional,massa final,refrigerante,10,43.2
+280,2023-05-19T17:15:45.000+0000,São Paulo,false,sabor catupiry,massa tradicional,suco de abacaxi,10,45.7
+281,2023-05-19T17:39:30.000+0000,Goiás,true,sabor catupiry,massa tradicional,cerveja,10,47.45
+282,2023-05-19T20:05:18.000+0000,Bahia,false,borda tradicional,massa grossa,refrigerante,10,47.25
+283,2023-05-19T22:29:00.000+0000,São Paulo,false,borda tradicional,massa tradicional,limonada,9,31.25
+284,2023-05-19T22:47:16.000+0000,São Paulo,true,sabor catupiry,massa tradicional,refrigerante,10,44.95
+285,2023-05-20T00:18:29.000+0000,Tocantins,false,borda tradicional,massa tradicional,refrigerante,9,40.0
+286,2023-05-20T06:10:55.000+0000,Pernambuco,false,borda tradicional,massa tradicional,,7,30.75
+287,2023-05-20T13:52:47.000+0000,Minas Gerais,false,borda tradicional,massa final,cerveja,10,48.5
+288,2023-05-20T15:30:36.000+0000,São Paulo,false,sabor catupiry,massa tradicional,chá gelado,10,44.25
+289,2023-05-20T18:28:57.000+0000,Paraná,true,borda tradicional,massa final,suco de maracujá,10,45.25
+290,2023-05-20T21:43:04.000+0000,São Paulo,false,cream cheese,massa tradicional,chá gelado,10,52.25
+291,2023-05-21T08:12:38.000+0000,Minas Gerais,true,sabor catupiry,massa final,vinho tinto,10,48.5
+292,2023-05-21T15:29:35.000+0000,Rio Grande do Norte,false,sabor catupiry,massa tradicional,vinho tinto,8,47.25
+293,2023-05-21T17:24:48.000+0000,Rio de Janeiro,false,borda tradicional,massa tradicional,vinho tinto,10,51.0
+294,2023-05-21T19:23:16.000+0000,Rio Grande do Sul,true,sabor catupiry,massa final,vinho tinto,10,56.0
+295,2023-05-21T21:05:48.000+0000,Rio de Janeiro,true,sabor catupiry,massa final,refrigerante,9,42.7
+296,2023-05-21T23:28:38.000+0000,São Paulo,true,cheddar,massa final,suco de laranja,10,45.9
+297,2023-05-22T01:07:02.000+0000,Mato Grosso,false,sabor catupiry,massa tradicional,vinho tinto,10,51.25
+298,2023-05-22T07:13:31.000+0000,Rio de Janeiro,false,sabor catupiry,massa integral,chá gelado,10,49.25
+299,2023-05-22T09:21:38.000+0000,Rio de Janeiro,true,borda tradicional,massa tradicional,refrigerante,6,27.5
+300,2023-05-22T10:23:11.000+0000,Minas Gerais,true,sabor catupiry,massa grossa,chá gelado,9,49.75
+301,2023-05-22T12:52:52.000+0000,Rio de Janeiro,true,cream cheese,massa tradicional,refrigerante,10,54.5
+302,2023-05-22T14:57:04.000+0000,Distrito Federal,false,cheddar,massa final,suco de laranja,10,52.4
+303,2023-05-22T15:13:06.000+0000,São Paulo,true,sabor catupiry,massa tradicional,chá gelado,10,47.7
+304,2023-05-22T16:05:10.000+0000,Goiás,false,borda tradicional,massa final,cerveja,10,35.75
+305,2023-05-22T16:13:43.000+0000,Santa Catarina,true,sabor catupiry,massa tradicional,suco de laranja,10,49.2
+306,2023-05-22T17:55:43.000+0000,Pará,true,cream cheese,massa final,limonada,10,53.0
+307,2023-05-22T19:17:26.000+0000,São Paulo,false,sabor catupiry,massa tradicional,refrigerante,10,55.5
+308,2023-05-22T19:33:25.000+0000,São Paulo,true,sabor catupiry,massa final,suco de laranja,10,41.5
+309,2023-05-22T19:52:19.000+0000,Rio de Janeiro,true,borda tradicional,massa grossa,suco de laranja,10,44.0
+310,2023-05-22T22:29:08.000+0000,Minas Gerais,true,sabor catupiry,massa tradicional,água com gás,10,46.75
+311,2023-05-22T23:39:44.000+0000,São Paulo,false,sabor catupiry,massa grossa,suco de uva,7,34.75
+312,2023-05-23T00:25:53.000+0000,São Paulo,false,sabor catupiry,massa tradicional,cerveja,10,47.5
+313,2023-05-23T08:21:46.000+0000,Rio de Janeiro,false,borda tradicional,massa final,vinho tinto,10,41.5
+314,2023-05-23T08:21:59.000+0000,Paraná,false,borda tradicional,massa final,refrigerante,10,45.25
+315,2023-05-23T08:22:31.000+0000,Amazonas,true,borda tradicional,massa tradicional,suco de maracujá,10,41.2
+316,2023-05-23T08:22:57.000+0000,Minas Gerais,true,sabor catupiry,massa tradicional,,9,41.25
+317,2023-05-23T08:23:51.000+0000,Espírito Santo,true,borda tradicional,massa grossa,suco de laranja,10,43.5
+318,2023-05-23T08:24:06.000+0000,Rio Grande do Sul,true,borda tradicional,massa final,água com gás,10,48.0
+319,2023-05-23T08:24:06.000+0000,Paraíba,false,borda tradicional,massa final,cerveja,10,42.75
+320,2023-05-23T08:24:58.000+0000,Sergipe,true,borda tradicional,massa final,suco de maracujá,10,34.5
+321,2023-05-23T08:26:43.000+0000,Espírito Santo,true,borda tradicional,massa final,cerveja,10,35.25
+322,2023-05-23T08:30:53.000+0000,São Paulo,false,borda tradicional,massa final,água com gás,6,28.0
+323,2023-05-23T08:31:31.000+0000,Minas Gerais,false,borda tradicional,massa tradicional,suco de laranja,7,36.25
+324,2023-05-23T08:32:05.000+0000,Maranhão,true,borda tradicional,massa tradicional,vinho tinto,10,52.25
+325,2023-05-23T08:32:43.000+0000,Rio de Janeiro,true,cream cheese,massa tradicional,refrigerante,10,63.25
+326,2023-05-23T08:35:48.000+0000,Minas Gerais,true,sabor catupiry,massa tradicional,refrigerante,10,51.75
+327,2023-05-23T08:36:30.000+0000,Goiás,true,sabor catupiry,massa integral,cerveja,10,53.0
+328,2023-05-23T08:38:12.000+0000,São Paulo,true,borda tradicional,massa final,refrigerante,10,44.0
+329,2023-05-23T08:38:29.000+0000,Rio de Janeiro,true,borda tradicional,massa final,refrigerante,10,44.7
+330,2023-05-23T08:38:30.000+0000,São Paulo,true,sabor catupiry,massa tradicional,suco de abacaxi,10,50.5
+331,2023-05-23T08:45:26.000+0000,Alagoas,true,borda tradicional,massa tradicional,cerveja,10,41.0
+332,2023-05-23T08:45:57.000+0000,Santa Catarina,true,sabor catupiry,massa tradicional,suco de laranja,10,48.25
+333,2023-05-23T08:46:15.000+0000,Pernambuco,false,sabor catupiry,massa final,água com gás,7,29.0
+334,2023-05-23T08:46:55.000+0000,Goiás,true,cream cheese,massa tradicional,suco de laranja,10,54.25
+335,2023-05-23T08:47:20.000+0000,Minas Gerais,true,cheddar,massa integral,vinho tinto,10,61.65
+336,2023-05-23T08:47:23.000+0000,Rio Grande do Sul,true,borda tradicional,massa tradicional,refrigerante,9,40.75
+337,2023-05-23T08:47:54.000+0000,São Paulo,false,sabor catupiry,massa tradicional,refrigerante,9,43.0
+338,2023-05-23T08:49:19.000+0000,Goiás,true,sabor catupiry,massa grossa,refrigerante,9,49.0
+339,2023-05-23T08:49:46.000+0000,São Paulo,true,sabor catupiry,massa tradicional,suco de laranja,10,44.25
+340,2023-05-23T08:50:15.000+0000,Paraná,true,cheddar,massa integral,limonada,8,34.7
+341,2023-05-23T08:54:27.000+0000,São Paulo,false,sabor catupiry,massa tradicional,água com gás,10,50.5
+342,2023-05-23T08:59:15.000+0000,Minas Gerais,true,sabor catupiry,massa tradicional,refrigerante,10,48.0
+343,2023-05-23T09:03:47.000+0000,São Paulo,false,borda tradicional,massa final,chá gelado,10,45.25
+344,2023-05-23T09:03:52.000+0000,Rio de Janeiro,false,borda tradicional,massa tradicional,refrigerante,10,50.25
+345,2023-05-23T09:05:37.000+0000,Bahia,false,borda tradicional,massa final,água com gás,10,38.5
+346,2023-05-23T09:09:45.000+0000,São Paulo,false,sabor catupiry,massa tradicional,refrigerante,8,44.5
+347,2023-05-23T09:13:59.000+0000,São Paulo,false,sabor catupiry,massa final,suco de maracujá,10,48.5
+348,2023-05-23T09:16:11.000+0000,Santa Catarina,false,borda tradicional,massa tradicional,refrigerante,9,35.0
+349,2023-05-23T09:16:15.000+0000,São Paulo,false,borda tradicional,massa final,vinho tinto,6,37.0
+350,2023-05-23T09:16:16.000+0000,São Paulo,false,sabor catupiry,massa final,refrigerante,10,49.75
+351,2023-05-23T09:19:42.000+0000,Espírito Santo,true,sabor catupiry,massa final,refrigerante,10,44.75
+352,2023-05-23T09:21:55.000+0000,Acre,true,cream cheese,massa final,refrigerante,10,49.25
+353,2023-05-23T09:22:09.000+0000,Mato Grosso,false,cream cheese,massa tradicional,água com gás,10,48.2
+354,2023-05-23T09:22:37.000+0000,São Paulo,false,sabor catupiry,massa tradicional,refrigerante,9,38.5
+355,2023-05-23T09:24:16.000+0000,Rio de Janeiro,false,borda tradicional,massa tradicional,vinho tinto,9,40.75
+356,2023-05-23T09:24:25.000+0000,Minas Gerais,true,sabor catupiry,massa tradicional,suco de maracujá,10,42.25
+357,2023-05-23T09:30:17.000+0000,Paraná,false,cheddar,massa final,vinho tinto,10,53.95
+358,2023-05-23T09:32:33.000+0000,Minas Gerais,false,sabor catupiry,massa tradicional,refrigerante,10,48.0
+359,2023-05-23T09:35:09.000+0000,São Paulo,false,sabor catupiry,massa final,refrigerante,8,41.75
+360,2023-05-23T09:35:20.000+0000,Goiás,true,borda tradicional,massa tradicional,refrigerante,10,40.5
+361,2023-05-23T09:38:10.000+0000,Minas Gerais,true,sabor catupiry,massa tradicional,suco de maracujá,10,50.25
+362,2023-05-23T09:38:58.000+0000,São Paulo,true,sabor catupiry,massa tradicional,refrigerante,10,51.95
+363,2023-05-23T09:41:05.000+0000,Santa Catarina,false,sabor catupiry,massa tradicional,refrigerante,10,46.0
+364,2023-05-23T09:42:19.000+0000,Rio de Janeiro,true,borda tradicional,massa tradicional,refrigerante,7,30.5
+365,2023-05-23T09:44:23.000+0000,São Paulo,false,borda tradicional,massa tradicional,cerveja,10,44.5
+366,2023-05-23T09:44:32.000+0000,Rio de Janeiro,false,borda tradicional,massa final,água com gás,10,36.5
+367,2023-05-23T09:47:57.000+0000,São Paulo,false,borda tradicional,massa final,cerveja,10,39.25
+368,2023-05-23T09:48:46.000+0000,Bahia,false,cream cheese,massa grossa,refrigerante,10,55.75
+369,2023-05-23T09:49:24.000+0000,Minas Gerais,false,sabor catupiry,massa tradicional,refrigerante,10,56.25
+370,2023-05-23T09:50:14.000+0000,Rio de Janeiro,false,borda tradicional,massa tradicional,vinho tinto,10,41.25
+371,2023-05-23T09:50:23.000+0000,Minas Gerais,true,sabor catupiry,massa tradicional,suco de maracujá,10,46.25
+372,2023-05-23T09:51:14.000+0000,Rio de Janeiro,false,borda tradicional,massa grossa,chá gelado,7,31.5
+373,2023-05-23T09:51:25.000+0000,Distrito Federal,true,borda tradicional,massa final,vinho tinto,10,46.0
+374,2023-05-23T09:52:17.000+0000,Rio Grande do Norte,false,borda tradicional,massa final,suco de maracujá,10,42.25
+375,2023-05-23T09:53:51.000+0000,Ceará,true,cheddar,massa tradicional,suco de uva,10,50.95
+376,2023-05-23T09:54:58.000+0000,São Paulo,false,borda tradicional,massa tradicional,suco de abacaxi,10,40.25
+377,2023-05-23T09:55:03.000+0000,Ceará,true,sabor catupiry,massa tradicional,suco de abacaxi,10,45.7
+378,2023-05-23T09:56:08.000+0000,Minas Gerais,false,cheddar,massa final,suco de laranja,10,43.95
+379,2023-05-23T10:01:07.000+0000,São Paulo,false,borda tradicional,massa tradicional,vinho tinto,8,37.25
+380,2023-05-23T10:02:13.000+0000,Espírito Santo,false,sabor catupiry,massa tradicional,refrigerante,9,37.5
+381,2023-05-23T10:07:48.000+0000,São Paulo,false,borda tradicional,massa tradicional,suco de laranja,10,38.75
+382,2023-05-23T10:12:46.000+0000,Espírito Santo,false,borda tradicional,massa tradicional,vinho tinto,10,50.0
+383,2023-05-23T10:13:52.000+0000,Bahia,true,cream cheese,massa final,cerveja,10,45.75
+384,2023-05-23T10:14:00.000+0000,São Paulo,false,borda tradicional,massa tradicional,limonada,10,39.75
+385,2023-05-23T10:16:35.000+0000,Paraná,false,sabor catupiry,massa tradicional,chá gelado,9,43.25
+386,2023-05-23T10:17:42.000+0000,Minas Gerais,false,borda tradicional,massa integral,suco de maracujá,10,45.25
+387,2023-05-23T10:17:55.000+0000,São Paulo,false,borda tradicional,massa tradicional,refrigerante,10,46.5
+388,2023-05-23T10:23:28.000+0000,Santa Catarina,true,borda tradicional,massa tradicional,cerveja,10,40.0
+389,2023-05-23T10:26:25.000+0000,São Paulo,true,sabor catupiry,massa final,água com gás,10,44.5
+390,2023-05-23T10:34:54.000+0000,São Paulo,false,borda tradicional,massa integral,suco de laranja,10,43.25
+391,2023-05-23T10:38:30.000+0000,São Paulo,true,cheddar,massa final,limonada,9,50.7
+392,2023-05-23T10:39:40.000+0000,Ceará,false,sabor catupiry,massa final,suco de laranja,9,42.25
+393,2023-05-23T10:42:31.000+0000,Distrito Federal,false,borda tradicional,massa final,limonada,8,27.5
+394,2023-05-23T10:44:54.000+0000,Rio de Janeiro,true,sabor catupiry,massa grossa,refrigerante,10,51.25
+395,2023-05-23T10:50:55.000+0000,Santa Catarina,true,sabor catupiry,massa tradicional,suco de maracujá,10,48.7
+396,2023-05-23T10:51:40.000+0000,Santa Catarina,false,sabor catupiry,massa final,refrigerante,10,43.25
+397,2023-05-23T10:53:30.000+0000,Pará,true,cream cheese,massa final,cerveja,10,61.0
+398,2023-05-23T11:01:43.000+0000,Espírito Santo,false,sabor catupiry,massa final,limonada,10,47.75
+399,2023-05-23T11:07:57.000+0000,Paraná,true,cream cheese,massa grossa,refrigerante,10,55.5
+400,2023-05-23T11:12:55.000+0000,Santa Catarina,true,sabor catupiry,massa tradicional,chá gelado,10,46.2
+401,2023-05-23T11:19:17.000+0000,Minas Gerais,true,borda tradicional,massa final,refrigerante,10,37.25
+402,2023-05-23T11:21:13.000+0000,São Paulo,true,sabor catupiry,massa tradicional,refrigerante,10,51.5
+403,2023-05-23T11:25:52.000+0000,Rio de Janeiro,true,borda tradicional,massa tradicional,cerveja,8,41.5
+404,2023-05-23T11:33:00.000+0000,Rio de Janeiro,false,borda tradicional,massa tradicional,vinho tinto,10,47.25
+405,2023-05-23T11:38:11.000+0000,Paraná,true,sabor catupiry,massa tradicional,refrigerante,10,47.0
+406,2023-05-23T11:41:17.000+0000,São Paulo,true,cheddar,massa grossa,refrigerante,10,52.2
+407,2023-05-23T11:44:15.000+0000,Rio de Janeiro,true,sabor catupiry,massa tradicional,refrigerante,10,46.0
+408,2023-05-23T11:45:13.000+0000,São Paulo,false,borda tradicional,massa tradicional,refrigerante,9,43.75
+409,2023-05-23T11:48:14.000+0000,São Paulo,false,sabor catupiry,massa tradicional,chá gelado,10,51.5
+410,2023-05-23T11:52:43.000+0000,Paraná,true,sabor catupiry,massa tradicional,cerveja,9,46.0
+411,2023-05-23T12:07:14.000+0000,Minas Gerais,false,borda tradicional,massa tradicional,cerveja,8,31.0
+412,2023-05-23T12:14:16.000+0000,São Paulo,false,cream cheese,massa grossa,vinho tinto,10,60.0
+413,2023-05-23T12:18:39.000+0000,São Paulo,false,sabor catupiry,massa final,refrigerante,7,33.25
+414,2023-05-23T12:20:37.000+0000,São Paulo,false,sabor catupiry,massa grossa,suco de uva,10,49.0
+415,2023-05-23T12:24:32.000+0000,Espírito Santo,true,cream cheese,massa final,suco de uva,7,41.0
+416,2023-05-23T12:24:38.000+0000,Rio de Janeiro,false,borda tradicional,massa tradicional,cerveja,10,38.0
+417,2023-05-23T12:28:29.000+0000,Paraná,false,borda tradicional,massa tradicional,refrigerante,10,46.3
+418,2023-05-23T12:32:58.000+0000,Rio de Janeiro,true,cream cheese,massa final,suco de maracujá,10,56.45
+419,2023-05-23T12:33:12.000+0000,São Paulo,false,borda tradicional,massa final,refrigerante,10,39.75
+420,2023-05-23T12:37:48.000+0000,São Paulo,false,cream cheese,massa integral,chá gelado,10,52.25
+421,2023-05-23T12:46:57.000+0000,São Paulo,true,cream cheese,massa final,refrigerante,10,51.25
+422,2023-05-23T12:58:37.000+0000,São Paulo,true,borda tradicional,massa tradicional,refrigerante,10,40.5
+423,2023-05-23T13:00:25.000+0000,Paraíba,false,sabor catupiry,massa final,refrigerante,10,46.75
+424,2023-05-23T13:01:41.000+0000,Minas Gerais,false,borda tradicional,massa tradicional,cerveja,10,40.5
+425,2023-05-23T13:13:39.000+0000,Rio de Janeiro,true,borda tradicional,massa tradicional,chá gelado,8,34.75
+426,2023-05-23T13:14:49.000+0000,Paraná,false,cream cheese,massa tradicional,suco de abacaxi,10,52.25
+427,2023-05-23T13:25:49.000+0000,São Paulo,false,sabor catupiry,massa tradicional,vinho tinto,10,52.25
+428,2023-05-23T13:30:31.000+0000,Rio de Janeiro,true,cream cheese,massa final,refrigerante,10,52.75
+429,2023-05-23T13:34:09.000+0000,Minas Gerais,true,cheddar,massa final,cerveja,10,48.2
+430,2023-05-23T13:50:41.000+0000,Bahia,false,borda tradicional,massa tradicional,vinho tinto,10,41.75
+431,2023-05-23T13:51:31.000+0000,Santa Catarina,false,borda tradicional,massa final,água com gás,10,42.25
+432,2023-05-23T13:52:25.000+0000,São Paulo,false,sabor catupiry,massa tradicional,refrigerante,10,46.45
+433,2023-05-23T13:56:43.000+0000,Rio de Janeiro,false,sabor catupiry,massa final,vinho tinto,10,48.5
+434,2023-05-23T13:58:18.000+0000,Minas Gerais,true,cream cheese,massa tradicional,,9,45.7
+435,2023-05-23T14:07:37.000+0000,Rio Grande do Sul,false,sabor catupiry,massa final,limonada,7,35.75
+436,2023-05-23T14:08:44.000+0000,Santa Catarina,true,sabor catupiry,massa tradicional,chá gelado,9,36.25
+437,2023-05-23T14:29:05.000+0000,São Paulo,false,borda tradicional,massa grossa,refrigerante,10,43.75
+438,2023-05-23T14:42:04.000+0000,São Paulo,false,borda tradicional,massa tradicional,cerveja,10,41.0
+439,2023-05-23T14:42:40.000+0000,Paraná,false,borda tradicional,massa final,água com gás,10,40.95
+440,2023-05-23T14:50:20.000+0000,Pernambuco,true,cream cheese,massa final,suco de laranja,10,51.5
+441,2023-05-23T14:52:15.000+0000,São Paulo,true,borda tradicional,massa tradicional,suco de uva,10,36.5
+442,2023-05-23T14:59:21.000+0000,Paraná,true,sabor catupiry,massa final,limonada,10,46.5
+443,2023-05-23T15:00:49.000+0000,Rio de Janeiro,true,borda tradicional,massa grossa,refrigerante,8,43.0
+444,2023-05-23T15:06:49.000+0000,São Paulo,false,borda tradicional,massa final,vinho tinto,9,41.0
+445,2023-05-23T15:23:50.000+0000,Santa Catarina,true,cheddar,massa final,cerveja,10,51.7
+446,2023-05-23T15:24:52.000+0000,Minas Gerais,true,borda tradicional,massa final,refrigerante,10,35.75
+447,2023-05-23T15:39:55.000+0000,Rio Grande do Sul,true,borda tradicional,massa tradicional,refrigerante,10,41.0
+448,2023-05-23T16:09:31.000+0000,Bahia,true,borda tradicional,massa tradicional,suco de laranja,10,39.75
+449,2023-05-23T16:09:54.000+0000,Ceará,true,cream cheese,massa tradicional,refrigerante,10,49.5
+450,2023-05-23T16:21:23.000+0000,Rio Grande do Norte,true,sabor catupiry,massa tradicional,refrigerante,8,39.0
+451,2023-05-23T16:28:36.000+0000,Distrito Federal,true,cream cheese,massa tradicional,limonada,10,48.25
+452,2023-05-23T16:28:51.000+0000,Paraná,false,borda tradicional,massa tradicional,refrigerante,10,43.0
+453,2023-05-23T16:30:02.000+0000,São Paulo,false,sabor catupiry,massa tradicional,água com gás,10,43.25
+454,2023-05-23T16:58:56.000+0000,São Paulo,false,borda tradicional,massa integral,vinho tinto,10,58.0
+455,2023-05-23T17:06:49.000+0000,São Paulo,false,borda tradicional,massa tradicional,refrigerante,10,45.75
+456,2023-05-23T17:28:20.000+0000,São Paulo,false,sabor catupiry,massa grossa,suco de abacaxi,8,48.5
+457,2023-05-23T17:29:33.000+0000,Minas Gerais,true,borda tradicional,massa final,cerveja,10,39.75
+458,2023-05-23T17:45:45.000+0000,Minas Gerais,false,borda tradicional,massa final,cerveja,10,37.25
+459,2023-05-23T17:47:47.000+0000,São Paulo,false,borda tradicional,massa grossa,refrigerante,7,41.25
+460,2023-05-23T17:52:52.000+0000,São Paulo,false,sabor catupiry,massa tradicional,refrigerante,10,47.0
+461,2023-05-23T17:54:04.000+0000,Amazonas,true,sabor catupiry,massa tradicional,limonada,10,52.75
+462,2023-05-23T18:16:10.000+0000,Pernambuco,false,cheddar,massa final,cerveja,10,49.45
+463,2023-05-23T18:20:54.000+0000,Pernambuco,true,sabor catupiry,massa tradicional,suco de maracujá,10,47.75
+464,2023-05-23T18:22:00.000+0000,Ceará,false,sabor catupiry,massa tradicional,refrigerante,9,39.5
+465,2023-05-23T18:29:34.000+0000,Ceará,true,cream cheese,massa final,suco de laranja,10,49.5
+466,2023-05-23T18:30:49.000+0000,Rio de Janeiro,true,sabor catupiry,massa final,vinho tinto,10,50.95
+467,2023-05-23T18:36:52.000+0000,Ceará,false,sabor catupiry,massa final,refrigerante,10,48.25
+468,2023-05-23T18:46:33.000+0000,São Paulo,false,cheddar,massa tradicional,refrigerante,7,43.45
+469,2023-05-23T18:48:19.000+0000,Rio de Janeiro,true,sabor catupiry,massa tradicional,suco de laranja,10,50.0
+470,2023-05-23T18:51:26.000+0000,São Paulo,false,sabor catupiry,massa final,água com gás,10,42.0
+471,2023-05-23T18:51:49.000+0000,Espírito Santo,true,cream cheese,massa tradicional,refrigerante,10,53.0
+472,2023-05-23T18:52:26.000+0000,Espírito Santo,true,cheddar,massa tradicional,cerveja,10,46.45
+473,2023-05-23T19:01:13.000+0000,Espírito Santo,true,cream cheese,massa tradicional,suco de maracujá,10,54.25
+474,2023-05-23T19:06:55.000+0000,São Paulo,false,cheddar,massa final,refrigerante,7,38.7
+475,2023-05-23T19:15:55.000+0000,São Paulo,false,borda tradicional,massa tradicional,suco de laranja,9,31.75
+476,2023-05-23T19:16:40.000+0000,São Paulo,false,borda tradicional,massa tradicional,refrigerante,10,40.5
+477,2023-05-23T19:19:53.000+0000,São Paulo,true,sabor catupiry,massa tradicional,refrigerante,10,49.25
+478,2023-05-23T19:46:20.000+0000,São Paulo,false,cream cheese,massa integral,água com gás,10,67.0
+479,2023-05-23T19:57:53.000+0000,Pernambuco,false,sabor catupiry,massa final,suco de laranja,10,47.75
+480,2023-05-23T20:06:44.000+0000,Sergipe,false,borda tradicional,massa final,cerveja,10,42.25
+481,2023-05-23T20:12:45.000+0000,Santa Catarina,true,cream cheese,massa tradicional,refrigerante,10,53.5
+482,2023-05-23T20:19:54.000+0000,Rio Grande do Sul,true,sabor catupiry,massa tradicional,água com gás,10,52.0
+483,2023-05-23T20:32:08.000+0000,Mato Grosso do Sul,false,cheddar,massa tradicional,,9,45.2
+484,2023-05-23T20:44:26.000+0000,Paraná,true,cream cheese,massa tradicional,água com gás,9,51.7
+485,2023-05-23T21:36:47.000+0000,São Paulo,true,sabor catupiry,massa tradicional,cerveja,10,46.0
+486,2023-05-23T21:54:17.000+0000,São Paulo,true,borda tradicional,massa final,refrigerante,10,39.25
+487,2023-05-23T22:00:32.000+0000,São Paulo,false,borda tradicional,massa tradicional,suco de uva,10,38.5
+488,2023-05-23T22:42:55.000+0000,Pernambuco,false,borda tradicional,massa tradicional,,6,20.25
+489,2023-05-23T23:06:20.000+0000,Rio de Janeiro,true,borda tradicional,massa final,vinho tinto,10,46.0
+490,2023-05-23T23:23:55.000+0000,Bahia,false,cheddar,massa tradicional,suco de laranja,10,57.4
+491,2023-05-23T23:25:47.000+0000,São Paulo,true,sabor catupiry,massa tradicional,refrigerante,10,50.25
+492,2023-05-24T01:04:04.000+0000,Paraná,false,borda tradicional,massa tradicional,refrigerante,10,43.5
+493,2023-05-24T02:47:07.000+0000,Minas Gerais,true,borda tradicional,massa tradicional,refrigerante,10,38.0
+494,2023-05-24T04:34:21.000+0000,Ceará,true,cream cheese,massa tradicional,cerveja,10,51.0
+495,2023-05-24T05:54:25.000+0000,São Paulo,false,cream cheese,massa final,refrigerante,10,48.75
+496,2023-05-24T06:01:54.000+0000,Paraíba,true,borda tradicional,massa final,refrigerante,10,42.75
+497,2023-05-24T07:01:14.000+0000,São Paulo,true,cream cheese,massa integral,suco de abacaxi,10,57.0
+498,2023-05-24T07:09:16.000+0000,Rio de Janeiro,true,cheddar,massa tradicional,suco de uva,10,52.45
+499,2023-05-24T07:49:26.000+0000,Distrito Federal,false,borda tradicional,massa final,vinho tinto,10,49.0
+500,2023-05-24T07:58:28.000+0000,São Paulo,true,cream cheese,massa final,cerveja,10,45.25
+501,2023-05-24T08:03:39.000+0000,Santa Catarina,false,sabor catupiry,massa tradicional,vinho tinto,10,56.75
+502,2023-05-24T08:11:39.000+0000,Minas Gerais,true,borda tradicional,massa tradicional,limonada,10,37.75
+503,2023-05-24T08:51:36.000+0000,São Paulo,false,sabor catupiry,massa grossa,cerveja,10,47.75
+504,2023-05-24T09:01:14.000+0000,São Paulo,false,sabor catupiry,massa final,suco de abacaxi,10,53.5
+505,2023-05-24T09:06:34.000+0000,São Paulo,false,cream cheese,massa tradicional,refrigerante,10,53.45
+506,2023-05-24T09:10:27.000+0000,Rio Grande do Sul,false,borda tradicional,massa tradicional,chá gelado,10,37.75
+507,2023-05-24T09:19:18.000+0000,Minas Gerais,false,borda tradicional,massa grossa,vinho tinto,9,46.5
+508,2023-05-24T09:21:58.000+0000,Paraná,true,cheddar,massa tradicional,cerveja,10,53.7
+509,2023-05-24T09:27:08.000+0000,Sergipe,true,sabor catupiry,massa integral,suco de laranja,10,48.25
+510,2023-05-24T09:41:20.000+0000,São Paulo,true,borda tradicional,massa tradicional,cerveja,10,41.0
+511,2023-05-24T09:44:14.000+0000,Ceará,true,sabor catupiry,massa tradicional,refrigerante,10,48.5
+512,2023-05-24T10:20:14.000+0000,São Paulo,true,cheddar,massa tradicional,suco de laranja,10,48.2
+513,2023-05-24T10:41:24.000+0000,São Paulo,true,cream cheese,massa grossa,cerveja,10,54.7
+514,2023-05-24T11:05:22.000+0000,São Paulo,true,cheddar,massa grossa,refrigerante,10,59.2
+515,2023-05-24T11:26:13.000+0000,Minas Gerais,false,borda tradicional,massa final,suco de abacaxi,10,48.0
+516,2023-05-24T11:27:32.000+0000,Distrito Federal,false,borda tradicional,massa final,refrigerante,10,39.25
+517,2023-05-24T11:45:57.000+0000,São Paulo,false,borda tradicional,massa final,refrigerante,10,44.25
+518,2023-05-24T12:00:36.000+0000,Minas Gerais,false,borda tradicional,massa tradicional,,7,29.75
+519,2023-05-24T12:01:57.000+0000,São Paulo,false,sabor catupiry,massa tradicional,cerveja,10,45.5
+520,2023-05-24T12:14:18.000+0000,São Paulo,false,sabor catupiry,massa grossa,refrigerante,10,51.25
+521,2023-05-24T12:23:48.000+0000,Bahia,true,borda tradicional,massa tradicional,vinho tinto,8,40.75
+522,2023-05-24T12:42:01.000+0000,Bahia,true,cream cheese,massa integral,suco de abacaxi,10,56.25
+523,2023-05-24T12:50:06.000+0000,Minas Gerais,true,cheddar,massa final,suco de maracujá,10,47.9
+524,2023-05-24T12:56:37.000+0000,São Paulo,true,cheddar,massa integral,suco de abacaxi,8,49.2
+525,2023-05-24T13:19:23.000+0000,Goiás,true,borda tradicional,massa tradicional,refrigerante,10,43.95
+526,2023-05-24T13:24:36.000+0000,São Paulo,false,sabor catupiry,massa grossa,água com gás,10,48.0
+527,2023-05-24T13:27:05.000+0000,Paraná,true,cheddar,massa tradicional,água com gás,10,51.7
+528,2023-05-24T13:28:25.000+0000,Rio de Janeiro,true,sabor catupiry,massa grossa,refrigerante,7,47.75
+529,2023-05-24T13:28:57.000+0000,São Paulo,false,borda tradicional,massa tradicional,refrigerante,6,27.5
+530,2023-05-24T13:29:03.000+0000,Pernambuco,false,sabor catupiry,massa tradicional,suco de laranja,10,42.25
+531,2023-05-24T13:29:24.000+0000,São Paulo,false,borda tradicional,massa final,chá gelado,10,35.5
+532,2023-05-24T13:29:39.000+0000,São Paulo,false,borda tradicional,massa tradicional,vinho tinto,10,43.75
+533,2023-05-24T13:29:55.000+0000,Santa Catarina,false,sabor catupiry,massa tradicional,refrigerante,10,50.5
+534,2023-05-24T13:30:01.000+0000,São Paulo,true,cream cheese,massa final,limonada,10,52.0
+535,2023-05-24T13:30:21.000+0000,São Paulo,false,borda tradicional,massa tradicional,vinho tinto,10,52.75
+536,2023-05-24T13:30:27.000+0000,Sergipe,true,cheddar,massa final,refrigerante,10,50.7
+537,2023-05-24T13:31:14.000+0000,São Paulo,false,sabor catupiry,massa tradicional,suco de maracujá,10,48.25
+538,2023-05-24T13:31:20.000+0000,Paraná,true,cheddar,massa tradicional,limonada,10,55.0
+539,2023-05-24T13:31:39.000+0000,Ceará,false,borda tradicional,massa tradicional,refrigerante,10,38.5
+540,2023-05-24T13:31:48.000+0000,São Paulo,false,borda tradicional,massa tradicional,vinho tinto,9,45.75
+541,2023-05-24T13:32:04.000+0000,Paraná,true,cheddar,massa tradicional,refrigerante,8,39.45
+542,2023-05-24T13:32:11.000+0000,Bahia,true,sabor catupiry,massa tradicional,refrigerante,7,41.5
+543,2023-05-24T13:32:24.000+0000,São Paulo,false,sabor catupiry,massa grossa,refrigerante,10,48.25
+544,2023-05-24T13:32:37.000+0000,São Paulo,false,borda tradicional,massa final,suco de maracujá,8,36.25
+545,2023-05-24T13:33:06.000+0000,Santa Catarina,false,borda tradicional,massa tradicional,suco de laranja,10,38.75
+546,2023-05-24T13:33:14.000+0000,São Paulo,false,borda tradicional,massa tradicional,suco de uva,9,37.5
+547,2023-05-24T13:33:26.000+0000,São Paulo,true,borda tradicional,massa tradicional,água com gás,7,26.75
+548,2023-05-24T13:33:29.000+0000,São Paulo,true,cream cheese,massa grossa,suco de maracujá,10,52.5
+549,2023-05-24T13:33:42.000+0000,São Paulo,true,sabor catupiry,massa tradicional,cerveja,10,42.5
+550,2023-05-24T13:33:57.000+0000,Pernambuco,false,borda tradicional,massa tradicional,refrigerante,10,42.0
+551,2023-05-24T13:34:23.000+0000,São Paulo,false,sabor catupiry,massa tradicional,vinho tinto,9,54.0
+552,2023-05-24T13:34:30.000+0000,Espírito Santo,false,sabor catupiry,massa tradicional,cerveja,10,44.5
+553,2023-05-24T13:34:41.000+0000,Pernambuco,true,borda tradicional,massa tradicional,refrigerante,9,37.5
+554,2023-05-24T13:35:00.000+0000,São Paulo,true,borda tradicional,massa final,refrigerante,8,37.25
+555,2023-05-24T13:35:06.000+0000,Minas Gerais,false,borda tradicional,massa tradicional,vinho tinto,8,42.75
+556,2023-05-24T13:35:16.000+0000,Distrito Federal,false,borda tradicional,massa final,vinho tinto,10,40.5
+557,2023-05-24T13:35:24.000+0000,Ceará,true,sabor catupiry,massa tradicional,refrigerante,10,50.25
+558,2023-05-24T13:35:58.000+0000,Pernambuco,false,borda tradicional,massa tradicional,refrigerante,8,30.5
+559,2023-05-24T13:36:08.000+0000,São Paulo,false,sabor catupiry,massa final,vinho tinto,8,48.75
+560,2023-05-24T13:36:18.000+0000,Rio de Janeiro,false,sabor catupiry,massa grossa,refrigerante,10,57.0
+561,2023-05-24T13:36:30.000+0000,Espírito Santo,false,borda tradicional,massa final,refrigerante,10,47.0
+562,2023-05-24T13:36:47.000+0000,São Paulo,true,cream cheese,massa tradicional,suco de abacaxi,10,51.25
+563,2023-05-24T13:36:51.000+0000,Minas Gerais,false,sabor catupiry,massa tradicional,refrigerante,10,46.5
+564,2023-05-24T13:37:03.000+0000,São Paulo,false,sabor catupiry,massa tradicional,suco de abacaxi,10,44.75
+565,2023-05-24T13:37:08.000+0000,São Paulo,false,borda tradicional,massa tradicional,refrigerante,7,31.0
+566,2023-05-24T13:37:19.000+0000,Pernambuco,true,sabor catupiry,massa tradicional,refrigerante,7,35.5
+567,2023-05-24T13:37:52.000+0000,São Paulo,false,borda tradicional,massa tradicional,refrigerante,10,41.5
+568,2023-05-24T13:38:35.000+0000,São Paulo,false,borda tradicional,massa tradicional,cerveja,10,42.0
+569,2023-05-24T13:39:12.000+0000,Mato Grosso do Sul,false,borda tradicional,massa tradicional,água com gás,10,46.5
+570,2023-05-24T13:39:12.000+0000,Ceará,true,borda tradicional,massa tradicional,água com gás,8,24.75
+571,2023-05-24T13:39:15.000+0000,São Paulo,false,borda tradicional,massa final,vinho tinto,5,28.5
+572,2023-05-24T13:39:44.000+0000,São Paulo,false,sabor catupiry,massa tradicional,suco de abacaxi,8,40.75
+573,2023-05-24T13:39:54.000+0000,Alagoas,true,sabor catupiry,massa tradicional,refrigerante,10,52.25
+574,2023-05-24T13:40:02.000+0000,Bahia,false,sabor catupiry,massa final,refrigerante,10,49.75
+575,2023-05-24T13:40:04.000+0000,São Paulo,false,sabor catupiry,massa final,cerveja,10,41.75
+576,2023-05-24T13:40:43.000+0000,São Paulo,false,borda tradicional,massa tradicional,vinho tinto,8,45.25
+577,2023-05-24T13:41:07.000+0000,São Paulo,true,borda tradicional,massa tradicional,suco de maracujá,10,48.5
+578,2023-05-24T13:41:30.000+0000,São Paulo,true,sabor catupiry,massa grossa,refrigerante,10,56.5
+579,2023-05-24T13:41:43.000+0000,Rio de Janeiro,true,sabor catupiry,massa tradicional,refrigerante,10,46.45
+580,2023-05-24T13:41:53.000+0000,Rio de Janeiro,true,sabor catupiry,massa tradicional,refrigerante,10,46.0
+581,2023-05-24T13:42:05.000+0000,Distrito Federal,true,borda tradicional,massa grossa,limonada,10,46.0
+582,2023-05-24T13:42:06.000+0000,São Paulo,false,sabor catupiry,massa tradicional,refrigerante,10,46.5
+583,2023-05-24T13:42:42.000+0000,São Paulo,false,borda tradicional,massa final,refrigerante,10,38.75
+584,2023-05-24T13:43:14.000+0000,São Paulo,false,sabor catupiry,massa tradicional,refrigerante,10,46.5
+585,2023-05-24T13:43:28.000+0000,São Paulo,true,sabor catupiry,massa tradicional,cerveja,10,44.5
+586,2023-05-24T13:43:39.000+0000,Espírito Santo,true,sabor catupiry,massa tradicional,refrigerante,10,48.25
+587,2023-05-24T13:43:51.000+0000,Bahia,false,borda tradicional,massa tradicional,vinho tinto,8,42.25
+588,2023-05-24T13:44:01.000+0000,São Paulo,false,cream cheese,massa tradicional,refrigerante,10,52.5
+589,2023-05-24T13:44:02.000+0000,São Paulo,false,borda tradicional,massa tradicional,vinho tinto,10,53.0
+590,2023-05-24T13:44:13.000+0000,Rio de Janeiro,true,borda tradicional,massa tradicional,refrigerante,10,39.0
+591,2023-05-24T13:44:15.000+0000,São Paulo,false,sabor catupiry,massa final,refrigerante,10,43.75
+592,2023-05-24T13:44:25.000+0000,São Paulo,false,cream cheese,massa grossa,chá gelado,10,61.0
+593,2023-05-24T13:44:47.000+0000,Rio de Janeiro,true,sabor catupiry,massa tradicional,água com gás,10,43.25
+594,2023-05-24T13:44:48.000+0000,São Paulo,false,sabor catupiry,massa grossa,refrigerante,9,40.75
+595,2023-05-24T13:44:52.000+0000,Rio Grande do Sul,false,sabor catupiry,massa tradicional,refrigerante,6,38.0
+596,2023-05-24T13:45:16.000+0000,Rio de Janeiro,true,cream cheese,massa tradicional,chá gelado,9,40.25
+597,2023-05-24T13:45:25.000+0000,Distrito Federal,false,borda tradicional,massa tradicional,cerveja,10,39.0
+598,2023-05-24T13:45:25.000+0000,Goiás,true,borda tradicional,massa tradicional,refrigerante,9,35.0
+599,2023-05-24T13:45:29.000+0000,Santa Catarina,true,cheddar,massa tradicional,cerveja,10,50.95
+600,2023-05-24T13:46:35.000+0000,São Paulo,false,borda tradicional,massa final,suco de abacaxi,9,28.0
+601,2023-05-24T13:46:53.000+0000,São Paulo,false,sabor catupiry,massa tradicional,água com gás,10,45.25
+602,2023-05-24T13:47:02.000+0000,Rio Grande do Sul,false,borda tradicional,massa final,água com gás,7,28.0
+603,2023-05-24T13:47:03.000+0000,Paraná,true,borda tradicional,massa tradicional,vinho tinto,10,44.75
+604,2023-05-24T13:47:46.000+0000,São Paulo,false,borda tradicional,massa final,suco de laranja,10,40.5
+605,2023-05-24T13:47:56.000+0000,São Paulo,false,borda tradicional,massa grossa,refrigerante,9,45.5
+606,2023-05-24T13:49:17.000+0000,Minas Gerais,false,cheddar,massa grossa,refrigerante,10,55.7
+607,2023-05-24T13:49:19.000+0000,São Paulo,true,sabor catupiry,massa tradicional,refrigerante,10,45.5
+608,2023-05-24T13:49:34.000+0000,São Paulo,false,sabor catupiry,massa tradicional,água com gás,10,47.75
+609,2023-05-24T13:50:25.000+0000,São Paulo,false,sabor catupiry,massa grossa,suco de uva,10,44.75
+610,2023-05-24T13:50:43.000+0000,Rio de Janeiro,false,borda tradicional,massa final,água com gás,9,38.25
+611,2023-05-24T13:51:33.000+0000,Paraíba,false,borda tradicional,massa final,água com gás,10,40.5
+612,2023-05-24T13:51:35.000+0000,Paraná,false,sabor catupiry,massa grossa,refrigerante,10,49.25
+613,2023-05-24T13:51:42.000+0000,São Paulo,false,sabor catupiry,massa tradicional,limonada,8,38.5
+614,2023-05-24T13:51:48.000+0000,Distrito Federal,true,sabor catupiry,massa grossa,,8,34.5
+615,2023-05-24T13:51:57.000+0000,Alagoas,true,borda tradicional,massa final,suco de laranja,10,37.0
+616,2023-05-24T13:52:16.000+0000,Rio de Janeiro,true,borda tradicional,massa grossa,água com gás,10,40.5
+617,2023-05-24T13:52:16.000+0000,Alagoas,false,sabor catupiry,massa final,água com gás,7,37.0
+618,2023-05-24T13:52:30.000+0000,Rio Grande do Norte,true,borda tradicional,massa final,refrigerante,10,39.75
+619,2023-05-24T13:52:35.000+0000,Minas Gerais,true,sabor catupiry,massa tradicional,suco de maracujá,10,46.75
+620,2023-05-24T13:52:46.000+0000,Rio de Janeiro,true,sabor catupiry,massa tradicional,refrigerante,10,43.5
+621,2023-05-24T13:53:18.000+0000,Rio de Janeiro,false,borda tradicional,massa final,refrigerante,10,43.25
+622,2023-05-24T13:53:18.000+0000,Distrito Federal,false,borda tradicional,massa final,suco de uva,10,44.25
+623,2023-05-24T13:53:27.000+0000,Mato Grosso,false,borda tradicional,massa tradicional,cerveja,8,36.5
+624,2023-05-24T13:53:38.000+0000,Rio Grande do Norte,false,sabor catupiry,massa tradicional,suco de laranja,9,49.2
+625,2023-05-24T13:53:53.000+0000,São Paulo,false,borda tradicional,massa final,chá gelado,9,33.5
+626,2023-05-24T13:53:54.000+0000,São Paulo,false,cream cheese,massa final,vinho tinto,9,48.0
+627,2023-05-24T13:54:01.000+0000,São Paulo,false,sabor catupiry,massa tradicional,refrigerante,10,45.5
+628,2023-05-24T13:54:23.000+0000,Minas Gerais,false,sabor catupiry,massa tradicional,refrigerante,10,49.0
+629,2023-05-24T13:54:50.000+0000,Paraná,false,borda tradicional,massa final,água com gás,10,37.0
+630,2023-05-24T13:55:08.000+0000,Pernambuco,true,borda tradicional,massa final,refrigerante,8,33.75
+631,2023-05-24T13:55:34.000+0000,Santa Catarina,true,cheddar,massa tradicional,chá gelado,10,52.2
+632,2023-05-24T13:56:29.000+0000,Mato Grosso,true,borda tradicional,massa tradicional,cerveja,10,47.0
+633,2023-05-24T13:56:30.000+0000,Rio de Janeiro,false,borda tradicional,massa tradicional,suco de maracujá,10,48.5
+634,2023-05-24T13:57:03.000+0000,São Paulo,false,sabor catupiry,massa tradicional,suco de uva,8,38.5
+635,2023-05-24T13:58:05.000+0000,Distrito Federal,false,borda tradicional,massa tradicional,,8,35.25
+636,2023-05-24T13:58:30.000+0000,Paraná,false,borda tradicional,massa tradicional,refrigerante,10,40.0
+637,2023-05-24T13:59:24.000+0000,Ceará,true,cream cheese,massa final,cerveja,10,58.2
+638,2023-05-24T13:59:29.000+0000,Pernambuco,true,borda tradicional,massa final,vinho tinto,8,42.0
+639,2023-05-24T13:59:33.000+0000,Minas Gerais,true,cream cheese,massa tradicional,,8,55.25
+640,2023-05-24T14:00:16.000+0000,São Paulo,true,cheddar,massa grossa,suco de abacaxi,10,57.7
+641,2023-05-24T14:00:31.000+0000,Santa Catarina,true,cream cheese,massa final,cerveja,10,48.25
+642,2023-05-24T14:01:56.000+0000,São Paulo,false,sabor catupiry,massa tradicional,limonada,9,45.25
+643,2023-05-24T14:02:05.000+0000,Alagoas,false,borda tradicional,massa tradicional,cerveja,10,42.0
+644,2023-05-24T14:03:01.000+0000,Paraná,true,borda tradicional,massa grossa,suco de laranja,10,46.45
+645,2023-05-24T14:03:13.000+0000,Ceará,true,borda tradicional,massa grossa,suco de laranja,7,45.95
+646,2023-05-24T14:03:24.000+0000,São Paulo,true,sabor catupiry,massa tradicional,suco de laranja,10,46.75
+647,2023-05-24T14:03:41.000+0000,São Paulo,false,borda tradicional,massa final,água com gás,10,41.0
+648,2023-05-24T14:03:47.000+0000,São Paulo,false,sabor catupiry,massa final,refrigerante,10,46.25
+649,2023-05-24T14:04:26.000+0000,Paraná,false,borda tradicional,massa tradicional,refrigerante,6,33.0
+650,2023-05-24T14:04:49.000+0000,Rio Grande do Sul,false,cheddar,massa tradicional,água com gás,10,52.45
+651,2023-05-24T14:04:49.000+0000,São Paulo,false,sabor catupiry,massa tradicional,refrigerante,7,37.5
+652,2023-05-24T14:05:48.000+0000,São Paulo,true,sabor catupiry,massa tradicional,suco de uva,8,43.75
+653,2023-05-24T14:06:13.000+0000,Goiás,true,cheddar,massa tradicional,refrigerante,10,47.95
+654,2023-05-24T14:06:17.000+0000,Acre,true,sabor catupiry,massa grossa,cerveja,10,55.75
+655,2023-05-24T14:07:06.000+0000,Paraná,true,borda tradicional,massa tradicional,refrigerante,8,36.5
+656,2023-05-24T14:07:16.000+0000,Pernambuco,false,borda tradicional,massa final,vinho tinto,10,55.25
+657,2023-05-24T14:07:24.000+0000,Rio Grande do Norte,true,sabor catupiry,massa tradicional,refrigerante,10,47.0
+658,2023-05-24T14:07:36.000+0000,Rio de Janeiro,true,cheddar,massa final,limonada,10,46.9
+659,2023-05-24T14:08:15.000+0000,Roraima,false,borda tradicional,massa final,vinho tinto,10,42.5
+660,2023-05-24T14:08:15.000+0000,Distrito Federal,true,borda tradicional,massa tradicional,cerveja,8,35.0
+661,2023-05-24T14:08:36.000+0000,Rio Grande do Sul,false,cream cheese,massa tradicional,refrigerante,10,55.0
+662,2023-05-24T14:09:08.000+0000,Mato Grosso do Sul,false,sabor catupiry,massa final,água com gás,10,46.75
+663,2023-05-24T14:09:43.000+0000,São Paulo,true,sabor catupiry,massa tradicional,água com gás,10,50.75
+664,2023-05-24T14:10:05.000+0000,Paraíba,false,cream cheese,massa final,refrigerante,8,47.75
+665,2023-05-24T14:10:14.000+0000,Bahia,true,borda tradicional,massa final,refrigerante,10,42.0
+666,2023-05-24T14:10:43.000+0000,Paraná,true,sabor catupiry,massa tradicional,suco de maracujá,10,47.75
+667,2023-05-24T14:10:43.000+0000,Minas Gerais,false,cheddar,massa tradicional,cerveja,10,48.95
+668,2023-05-24T14:11:07.000+0000,Bahia,true,cheddar,massa tradicional,refrigerante,10,54.4
+669,2023-05-24T14:12:25.000+0000,Pernambuco,true,sabor catupiry,massa tradicional,refrigerante,10,49.0
+670,2023-05-24T14:13:43.000+0000,São Paulo,true,borda tradicional,massa tradicional,limonada,10,36.25
+671,2023-05-24T14:14:23.000+0000,Minas Gerais,false,sabor catupiry,massa tradicional,cerveja,10,46.0
+672,2023-05-24T14:14:33.000+0000,São Paulo,false,cream cheese,massa grossa,refrigerante,10,52.75
+673,2023-05-24T14:14:33.000+0000,São Paulo,false,sabor catupiry,massa tradicional,água com gás,10,43.25
+674,2023-05-24T14:15:08.000+0000,Paraná,false,borda tradicional,massa integral,água com gás,8,42.25
+675,2023-05-24T14:16:10.000+0000,São Paulo,true,borda tradicional,massa tradicional,refrigerante,10,42.5
+676,2023-05-24T14:16:10.000+0000,Santa Catarina,false,borda tradicional,massa tradicional,,9,41.25
+677,2023-05-24T14:16:32.000+0000,Minas Gerais,true,sabor catupiry,massa tradicional,vinho tinto,10,56.7
+678,2023-05-24T14:16:34.000+0000,Paraná,false,sabor catupiry,massa final,limonada,10,41.5
+679,2023-05-24T14:17:20.000+0000,São Paulo,true,sabor catupiry,massa grossa,chá gelado,10,47.0
+680,2023-05-24T14:18:32.000+0000,Paraná,false,borda tradicional,massa final,refrigerante,7,34.75
+681,2023-05-24T14:18:50.000+0000,Pernambuco,true,cream cheese,massa final,cerveja,10,49.5
+682,2023-05-24T14:19:13.000+0000,São Paulo,false,borda tradicional,massa final,suco de laranja,10,38.0
+683,2023-05-24T14:19:13.000+0000,São Paulo,true,borda tradicional,massa tradicional,refrigerante,10,42.5
+684,2023-05-24T14:20:11.000+0000,São Paulo,false,borda tradicional,massa tradicional,vinho tinto,10,53.0
+685,2023-05-24T14:20:19.000+0000,Paraná,true,sabor catupiry,massa tradicional,refrigerante,10,46.45
+686,2023-05-24T14:21:07.000+0000,São Paulo,false,sabor catupiry,massa final,cerveja,10,46.25
+687,2023-05-24T14:21:08.000+0000,São Paulo,false,borda tradicional,massa final,limonada,7,24.0
+688,2023-05-24T14:21:14.000+0000,Bahia,false,cream cheese,massa final,refrigerante,10,48.25
+689,2023-05-24T14:21:35.000+0000,Espírito Santo,true,sabor catupiry,massa tradicional,refrigerante,10,48.5
+690,2023-05-24T14:21:36.000+0000,Rio Grande do Sul,true,cream cheese,massa final,água com gás,10,50.75
+691,2023-05-24T14:21:53.000+0000,São Paulo,false,sabor catupiry,massa tradicional,suco de abacaxi,9,41.25
+692,2023-05-24T14:22:08.000+0000,Espírito Santo,true,sabor catupiry,massa tradicional,refrigerante,8,47.0
+693,2023-05-24T14:23:14.000+0000,Santa Catarina,true,borda tradicional,massa tradicional,refrigerante,10,41.5
+694,2023-05-24T14:23:53.000+0000,Ceará,false,sabor catupiry,massa tradicional,suco de abacaxi,10,51.75
+695,2023-05-24T14:24:57.000+0000,Rio Grande do Sul,true,borda tradicional,massa final,,9,38.75
+696,2023-05-24T14:25:30.000+0000,São Paulo,false,borda tradicional,massa tradicional,cerveja,8,37.5
+697,2023-05-24T14:26:07.000+0000,Paraná,false,cheddar,massa tradicional,cerveja,9,47.45
+698,2023-05-24T14:26:40.000+0000,Espírito Santo,true,sabor catupiry,massa grossa,vinho tinto,10,58.5
+699,2023-05-24T14:27:11.000+0000,São Paulo,false,borda tradicional,massa final,suco de maracujá,8,35.5
+700,2023-05-24T14:28:29.000+0000,São Paulo,false,sabor catupiry,massa tradicional,refrigerante,8,36.0
+701,2023-05-24T14:29:54.000+0000,Amazonas,true,sabor catupiry,massa tradicional,suco de maracujá,10,47.2
+702,2023-05-24T14:30:28.000+0000,Paraíba,false,cream cheese,massa tradicional,suco de maracujá,10,54.75
+703,2023-05-24T14:31:08.000+0000,Minas Gerais,true,sabor catupiry,massa tradicional,refrigerante,10,46.5
+704,2023-05-24T14:31:23.000+0000,Rio Grande do Sul,false,cream cheese,massa tradicional,refrigerante,10,54.75
+705,2023-05-24T14:33:11.000+0000,São Paulo,true,cream cheese,massa integral,cerveja,10,56.25
+706,2023-05-24T14:35:39.000+0000,Rio Grande do Norte,false,sabor catupiry,massa tradicional,limonada,10,50.75
+707,2023-05-24T14:36:36.000+0000,São Paulo,false,sabor catupiry,massa tradicional,refrigerante,7,35.5
+708,2023-05-24T14:38:30.000+0000,Ceará,true,cream cheese,massa grossa,suco de laranja,10,59.95
+709,2023-05-24T14:39:16.000+0000,Tocantins,true,borda tradicional,massa tradicional,refrigerante,9,37.5
+710,2023-05-24T14:40:10.000+0000,Rio de Janeiro,false,borda tradicional,massa final,chá gelado,10,42.25
+711,2023-05-24T14:40:20.000+0000,São Paulo,false,sabor catupiry,massa tradicional,chá gelado,10,50.0
+712,2023-05-24T14:40:52.000+0000,São Paulo,false,sabor catupiry,massa final,refrigerante,9,47.0
+713,2023-05-24T14:41:45.000+0000,São Paulo,true,sabor catupiry,massa tradicional,água com gás,10,42.25
+714,2023-05-24T14:41:58.000+0000,Rio Grande do Sul,true,cream cheese,massa tradicional,refrigerante,10,48.45
+715,2023-05-24T14:42:01.000+0000,Sergipe,false,sabor catupiry,massa tradicional,suco de laranja,10,49.75
+716,2023-05-24T14:42:34.000+0000,Goiás,true,cheddar,massa tradicional,suco de maracujá,10,47.7
+717,2023-05-24T14:42:41.000+0000,São Paulo,false,sabor catupiry,massa final,limonada,10,40.5
+718,2023-05-24T14:43:36.000+0000,São Paulo,true,sabor catupiry,massa tradicional,suco de uva,9,41.5
+719,2023-05-24T14:44:15.000+0000,São Paulo,true,borda tradicional,massa tradicional,refrigerante,8,28.0
+720,2023-05-24T14:44:35.000+0000,Goiás,false,borda tradicional,massa final,suco de abacaxi,10,41.0
+721,2023-05-24T14:44:45.000+0000,São Paulo,false,sabor catupiry,massa tradicional,refrigerante,10,48.0
+722,2023-05-24T14:46:37.000+0000,São Paulo,true,borda tradicional,massa grossa,chá gelado,4,20.5
+723,2023-05-24T14:48:00.000+0000,Minas Gerais,true,cheddar,massa final,limonada,10,44.9
+724,2023-05-24T14:48:19.000+0000,São Paulo,false,sabor catupiry,massa tradicional,refrigerante,10,49.5
+725,2023-05-24T14:50:42.000+0000,São Paulo,false,borda tradicional,massa tradicional,vinho tinto,10,46.75
+726,2023-05-24T14:50:48.000+0000,Rondônia,true,cheddar,massa final,água com gás,8,50.15
+727,2023-05-24T14:51:15.000+0000,Bahia,false,sabor catupiry,massa integral,,9,57.75
+728,2023-05-24T14:52:04.000+0000,Ceará,false,cream cheese,massa grossa,refrigerante,9,47.25
+729,2023-05-24T14:52:13.000+0000,Rio de Janeiro,false,borda tradicional,massa grossa,suco de maracujá,10,48.75
+730,2023-05-24T14:52:45.000+0000,Rio Grande do Sul,false,cream cheese,massa final,suco de uva,9,45.5
+731,2023-05-24T14:53:27.000+0000,Paraná,false,cheddar,massa tradicional,suco de abacaxi,10,53.2
+732,2023-05-24T14:55:06.000+0000,Minas Gerais,false,cheddar,massa final,refrigerante,10,55.2
+733,2023-05-24T14:55:44.000+0000,São Paulo,false,borda tradicional,massa tradicional,cerveja,10,40.5
+734,2023-05-24T14:56:21.000+0000,Santa Catarina,false,cheddar,massa final,cerveja,10,44.7
+735,2023-05-24T14:57:14.000+0000,São Paulo,false,borda tradicional,massa integral,cerveja,10,46.0
+736,2023-05-24T14:57:22.000+0000,São Paulo,false,sabor catupiry,massa final,suco de laranja,10,45.95
+737,2023-05-24T14:57:52.000+0000,Rio Grande do Norte,true,cheddar,massa final,suco de maracujá,10,56.4
+738,2023-05-24T14:59:38.000+0000,São Paulo,true,borda tradicional,massa tradicional,cerveja,7,34.5
+739,2023-05-24T14:59:40.000+0000,Alagoas,false,borda tradicional,massa final,refrigerante,10,42.25
+740,2023-05-24T15:01:03.000+0000,São Paulo,false,sabor catupiry,massa grossa,refrigerante,7,45.75
+741,2023-05-24T15:02:48.000+0000,São Paulo,false,cream cheese,massa final,limonada,10,47.75
+742,2023-05-24T15:03:03.000+0000,Alagoas,false,borda tradicional,massa tradicional,suco de laranja,10,38.75
+743,2023-05-24T15:03:28.000+0000,Pará,true,sabor catupiry,massa tradicional,refrigerante,10,51.95
+744,2023-05-24T15:04:20.000+0000,Rio Grande do Sul,true,borda tradicional,massa final,vinho tinto,10,48.5
+745,2023-05-24T15:04:26.000+0000,Santa Catarina,true,sabor catupiry,massa final,refrigerante,10,47.5
+746,2023-05-24T15:04:48.000+0000,São Paulo,true,cheddar,massa tradicional,suco de laranja,7,42.2
+747,2023-05-24T15:05:11.000+0000,Rio de Janeiro,true,borda tradicional,massa final,refrigerante,10,45.5
+748,2023-05-24T15:05:36.000+0000,Minas Gerais,true,borda tradicional,massa final,refrigerante,10,35.25
+749,2023-05-24T15:05:41.000+0000,São Paulo,true,cream cheese,massa grossa,vinho tinto,10,66.8
+750,2023-05-24T15:06:36.000+0000,Pernambuco,false,cream cheese,massa tradicional,limonada,10,49.25
+751,2023-05-24T15:07:16.000+0000,São Paulo,false,sabor catupiry,massa grossa,refrigerante,10,50.25
+752,2023-05-24T15:07:32.000+0000,Minas Gerais,true,borda tradicional,massa tradicional,vinho tinto,10,47.75
+753,2023-05-24T15:08:14.000+0000,Minas Gerais,true,borda tradicional,massa tradicional,água com gás,10,44.75
+754,2023-05-24T15:08:20.000+0000,Rio de Janeiro,false,borda tradicional,massa final,refrigerante,10,43.5
+755,2023-05-24T15:09:01.000+0000,Sergipe,false,sabor catupiry,massa final,cerveja,10,51.75
+756,2023-05-24T15:09:05.000+0000,São Paulo,false,sabor catupiry,massa tradicional,refrigerante,10,50.0
+757,2023-05-24T15:09:27.000+0000,Minas Gerais,false,borda tradicional,massa tradicional,vinho tinto,10,46.0
+758,2023-05-24T15:09:59.000+0000,São Paulo,false,borda tradicional,massa tradicional,refrigerante,9,33.5
+759,2023-05-24T15:10:16.000+0000,Santa Catarina,true,cream cheese,massa tradicional,suco de maracujá,8,42.25
+760,2023-05-24T15:10:42.000+0000,Rio Grande do Sul,false,cream cheese,massa final,refrigerante,10,51.5
+761,2023-05-24T15:10:44.000+0000,Ceará,false,sabor catupiry,massa tradicional,água com gás,10,55.0
+762,2023-05-24T15:12:07.000+0000,Minas Gerais,true,cheddar,massa tradicional,água com gás,10,48.2
+763,2023-05-24T15:12:21.000+0000,São Paulo,true,cream cheese,massa tradicional,refrigerante,10,58.75
+764,2023-05-24T15:13:13.000+0000,São Paulo,false,borda tradicional,massa final,vinho tinto,10,45.5
+765,2023-05-24T15:13:36.000+0000,São Paulo,false,borda tradicional,massa final,refrigerante,10,38.75
+766,2023-05-24T15:13:54.000+0000,Rio Grande do Norte,false,sabor catupiry,massa tradicional,refrigerante,10,49.5
+767,2023-05-24T15:14:37.000+0000,Pernambuco,true,cream cheese,massa final,refrigerante,10,53.0
+768,2023-05-24T15:15:26.000+0000,Paraná,false,cheddar,massa grossa,refrigerante,8,51.2
+769,2023-05-24T15:15:26.000+0000,Rio Grande do Sul,false,borda tradicional,massa tradicional,suco de maracujá,8,40.25
+770,2023-05-24T15:15:46.000+0000,São Paulo,false,borda tradicional,massa final,refrigerante,7,34.25
+771,2023-05-24T15:17:56.000+0000,Bahia,true,borda tradicional,massa tradicional,vinho tinto,10,45.75
+772,2023-05-24T15:19:03.000+0000,Rio Grande do Sul,true,borda tradicional,massa final,refrigerante,10,43.5
+773,2023-05-24T15:19:29.000+0000,Minas Gerais,true,cream cheese,massa tradicional,água com gás,10,51.75
+774,2023-05-24T15:20:06.000+0000,Ceará,true,sabor catupiry,massa tradicional,refrigerante,10,51.0
+775,2023-05-24T15:21:38.000+0000,Santa Catarina,false,cream cheese,massa tradicional,refrigerante,10,52.5
+776,2023-05-24T15:22:14.000+0000,Paraná,false,cream cheese,massa final,suco de uva,7,41.25
+777,2023-05-24T15:22:29.000+0000,São Paulo,true,borda tradicional,massa final,refrigerante,10,38.75
+778,2023-05-24T15:22:39.000+0000,Santa Catarina,true,sabor catupiry,massa final,refrigerante,10,43.75
+779,2023-05-24T15:23:13.000+0000,Rio Grande do Sul,false,sabor catupiry,massa tradicional,refrigerante,9,41.0
+780,2023-05-24T15:23:30.000+0000,São Paulo,false,sabor catupiry,massa final,cerveja,9,38.75
+781,2023-05-24T15:24:11.000+0000,Minas Gerais,false,borda tradicional,massa final,refrigerante,9,36.75
+782,2023-05-24T15:24:16.000+0000,São Paulo,false,sabor catupiry,massa final,refrigerante,6,35.75
+783,2023-05-24T15:24:21.000+0000,Rio Grande do Sul,false,borda tradicional,massa tradicional,cerveja,10,42.5
+784,2023-05-24T15:24:53.000+0000,São Paulo,true,cheddar,massa tradicional,refrigerante,10,49.95
+785,2023-05-24T15:25:59.000+0000,São Paulo,false,borda tradicional,massa final,refrigerante,10,37.25
+786,2023-05-24T15:27:10.000+0000,Rio de Janeiro,false,borda tradicional,massa tradicional,vinho tinto,9,45.0
+787,2023-05-24T15:27:50.000+0000,Rio Grande do Sul,true,cream cheese,massa grossa,refrigerante,10,58.2
+788,2023-05-24T15:29:57.000+0000,Paraná,true,sabor catupiry,massa final,chá gelado,8,39.0
+789,2023-05-24T15:31:02.000+0000,Pernambuco,true,cream cheese,massa final,refrigerante,10,46.75
+790,2023-05-24T15:31:25.000+0000,São Paulo,false,borda tradicional,massa final,vinho tinto,6,28.5
+791,2023-05-24T15:32:08.000+0000,Paraná,false,sabor catupiry,massa tradicional,refrigerante,10,45.0
+792,2023-05-24T15:32:12.000+0000,Rio de Janeiro,false,cream cheese,massa final,refrigerante,10,50.75
+793,2023-05-24T15:32:21.000+0000,Goiás,true,borda tradicional,massa tradicional,suco de abacaxi,7,28.75
+794,2023-05-24T15:33:00.000+0000,Paraná,false,borda tradicional,massa final,refrigerante,10,43.75
+795,2023-05-24T15:34:11.000+0000,Espírito Santo,true,cream cheese,massa tradicional,suco de maracujá,10,48.75
+796,2023-05-24T15:34:33.000+0000,Paraná,true,borda tradicional,massa final,refrigerante,10,38.25
+797,2023-05-24T15:34:56.000+0000,Rio Grande do Sul,false,borda tradicional,massa tradicional,cerveja,8,36.5
+798,2023-05-24T15:36:11.000+0000,Paraná,true,borda tradicional,massa tradicional,refrigerante,10,41.5
+799,2023-05-24T15:36:59.000+0000,Paraíba,false,cream cheese,massa tradicional,refrigerante,10,48.0
+800,2023-05-24T15:37:52.000+0000,Paraíba,false,borda tradicional,massa tradicional,refrigerante,9,45.75
+801,2023-05-24T15:38:51.000+0000,Rio de Janeiro,true,borda tradicional,massa tradicional,vinho tinto,8,42.25
+802,2023-05-24T15:39:28.000+0000,Santa Catarina,false,sabor catupiry,massa final,cerveja,10,42.7
+803,2023-05-24T15:40:28.000+0000,São Paulo,true,borda tradicional,massa tradicional,refrigerante,10,46.25
+804,2023-05-24T15:42:15.000+0000,Bahia,true,sabor catupiry,massa final,chá gelado,6,34.5
+805,2023-05-24T15:43:52.000+0000,São Paulo,true,borda tradicional,massa tradicional,refrigerante,10,42.0
+806,2023-05-24T15:45:00.000+0000,Pernambuco,false,cream cheese,massa integral,chá gelado,10,57.0
+807,2023-05-24T15:48:32.000+0000,São Paulo,true,sabor catupiry,massa final,chá gelado,10,42.5
+808,2023-05-24T15:48:59.000+0000,Rio de Janeiro,true,borda tradicional,massa tradicional,refrigerante,6,27.0
+809,2023-05-24T15:49:00.000+0000,São Paulo,false,sabor catupiry,massa final,vinho tinto,10,56.25
+810,2023-05-24T15:49:41.000+0000,São Paulo,false,cream cheese,massa integral,vinho tinto,10,64.75
+811,2023-05-24T15:52:46.000+0000,Rio de Janeiro,false,borda tradicional,massa final,refrigerante,9,31.25
+812,2023-05-24T15:54:47.000+0000,Rio de Janeiro,true,borda tradicional,massa final,refrigerante,10,39.75
+813,2023-05-24T15:55:22.000+0000,São Paulo,false,sabor catupiry,massa final,cerveja,10,48.0
+814,2023-05-24T15:57:15.000+0000,São Paulo,false,sabor catupiry,massa final,suco de laranja,7,30.5
+815,2023-05-24T15:58:29.000+0000,São Paulo,false,borda tradicional,massa tradicional,vinho tinto,10,54.5
+816,2023-05-24T15:59:41.000+0000,Pernambuco,false,cream cheese,massa integral,chá gelado,10,62.75
+817,2023-05-24T15:59:46.000+0000,São Paulo,true,sabor catupiry,massa tradicional,refrigerante,10,48.5
+818,2023-05-24T16:00:30.000+0000,Bahia,true,sabor catupiry,massa tradicional,refrigerante,10,51.95
+819,2023-05-24T16:02:31.000+0000,Rio de Janeiro,true,borda tradicional,massa final,chá gelado,10,37.0
+820,2023-05-24T16:04:07.000+0000,São Paulo,false,cheddar,massa final,suco de maracujá,10,52.45
+821,2023-05-24T16:05:15.000+0000,Paraná,true,borda tradicional,massa tradicional,chá gelado,10,42.0
+822,2023-05-24T16:05:40.000+0000,Espírito Santo,true,sabor catupiry,massa final,refrigerante,10,50.45
+823,2023-05-24T16:07:23.000+0000,Bahia,true,borda tradicional,massa tradicional,cerveja,10,45.5
+824,2023-05-24T16:08:04.000+0000,Rio Grande do Norte,true,cream cheese,massa final,refrigerante,10,53.2
+825,2023-05-24T16:09:29.000+0000,Minas Gerais,true,sabor catupiry,massa final,refrigerante,10,43.75
+826,2023-05-24T16:12:00.000+0000,Minas Gerais,true,borda tradicional,massa tradicional,suco de laranja,10,44.5
+827,2023-05-24T16:12:38.000+0000,Pernambuco,true,sabor catupiry,massa tradicional,refrigerante,10,43.0
+828,2023-05-24T16:13:14.000+0000,São Paulo,true,sabor catupiry,massa tradicional,cerveja,10,46.5
+829,2023-05-24T16:14:44.000+0000,São Paulo,true,borda tradicional,massa grossa,refrigerante,10,53.0
+830,2023-05-24T16:14:58.000+0000,Pernambuco,true,cream cheese,massa tradicional,água com gás,10,47.75
+831,2023-05-24T16:15:34.000+0000,São Paulo,false,sabor catupiry,massa tradicional,cerveja,10,59.0
+832,2023-05-24T16:21:47.000+0000,Paraíba,true,sabor catupiry,massa tradicional,limonada,10,47.75
+833,2023-05-24T16:23:10.000+0000,Distrito Federal,false,borda tradicional,massa final,água com gás,10,39.0
+834,2023-05-24T16:24:43.000+0000,Rio de Janeiro,true,sabor catupiry,massa tradicional,refrigerante,10,47.45
+835,2023-05-24T16:26:08.000+0000,Pernambuco,true,borda tradicional,massa grossa,refrigerante,10,43.75
+836,2023-05-24T16:26:16.000+0000,Minas Gerais,true,sabor catupiry,massa tradicional,refrigerante,10,54.25
+837,2023-05-24T16:32:40.000+0000,São Paulo,false,cheddar,massa tradicional,refrigerante,10,49.95
+838,2023-05-24T16:33:03.000+0000,São Paulo,false,sabor catupiry,massa final,vinho tinto,10,55.25
+839,2023-05-24T16:35:30.000+0000,Paraná,false,cheddar,massa tradicional,refrigerante,8,44.45
+840,2023-05-24T16:37:15.000+0000,São Paulo,true,borda tradicional,massa final,cerveja,10,42.7
+841,2023-05-24T16:40:33.000+0000,Distrito Federal,false,borda tradicional,massa tradicional,vinho tinto,6,36.25
+842,2023-05-24T16:40:37.000+0000,São Paulo,true,sabor catupiry,massa tradicional,suco de maracujá,10,52.5
+843,2023-05-24T16:43:36.000+0000,Paraná,true,sabor catupiry,massa tradicional,água com gás,10,45.75
+844,2023-05-24T16:48:21.000+0000,Goiás,true,borda tradicional,massa final,refrigerante,10,46.75
+845,2023-05-24T16:50:01.000+0000,São Paulo,false,cheddar,massa tradicional,limonada,10,54.7
+846,2023-05-24T16:50:21.000+0000,Rio Grande do Norte,true,borda tradicional,massa tradicional,refrigerante,9,44.0
+847,2023-05-24T16:52:10.000+0000,São Paulo,true,borda tradicional,massa tradicional,refrigerante,9,33.0
+848,2023-05-24T16:56:45.000+0000,Paraná,false,borda tradicional,massa final,vinho tinto,6,34.0
+849,2023-05-24T16:56:59.000+0000,São Paulo,true,sabor catupiry,massa tradicional,limonada,10,49.25
+850,2023-05-24T16:57:00.000+0000,Minas Gerais,true,cheddar,massa tradicional,cerveja,10,51.45
+851,2023-05-24T16:57:36.000+0000,Minas Gerais,true,cheddar,massa final,suco de abacaxi,10,57.45
+852,2023-05-24T16:57:58.000+0000,São Paulo,false,borda tradicional,massa final,suco de laranja,9,34.0
+853,2023-05-24T17:01:34.000+0000,Goiás,true,sabor catupiry,massa final,suco de laranja,10,48.75
+854,2023-05-24T17:02:15.000+0000,Minas Gerais,false,borda tradicional,massa tradicional,refrigerante,10,43.45
+855,2023-05-24T17:04:40.000+0000,Paraná,false,sabor catupiry,massa tradicional,,7,33.75
+856,2023-05-24T17:05:28.000+0000,Rio de Janeiro,false,borda tradicional,massa tradicional,,9,32.75
+857,2023-05-24T17:05:41.000+0000,São Paulo,false,borda tradicional,massa final,refrigerante,9,32.75
+858,2023-05-24T17:05:42.000+0000,São Paulo,false,borda tradicional,massa final,suco de abacaxi,10,35.5
+859,2023-05-24T17:06:12.000+0000,São Paulo,false,sabor catupiry,massa tradicional,refrigerante,10,46.5
+860,2023-05-24T17:09:18.000+0000,Mato Grosso,true,sabor catupiry,massa tradicional,suco de maracujá,10,48.0
+861,2023-05-24T17:09:42.000+0000,São Paulo,false,borda tradicional,massa tradicional,chá gelado,10,44.25
+862,2023-05-24T17:10:40.000+0000,Pernambuco,false,borda tradicional,massa final,suco de laranja,8,23.0
+863,2023-05-24T17:11:07.000+0000,São Paulo,false,sabor catupiry,massa tradicional,água com gás,10,42.75
+864,2023-05-24T17:11:22.000+0000,São Paulo,false,sabor catupiry,massa tradicional,refrigerante,9,42.5
+865,2023-05-24T17:12:00.000+0000,São Paulo,false,sabor catupiry,massa final,limonada,10,41.75
+866,2023-05-24T17:12:16.000+0000,Roraima,false,borda tradicional,massa grossa,água com gás,10,42.5
+867,2023-05-24T17:13:05.000+0000,Distrito Federal,true,borda tradicional,massa final,refrigerante,8,35.75
+868,2023-05-24T17:14:51.000+0000,São Paulo,false,sabor catupiry,massa tradicional,refrigerante,6,33.0
+869,2023-05-24T17:15:02.000+0000,São Paulo,false,sabor catupiry,massa grossa,refrigerante,5,36.2
+870,2023-05-24T17:15:32.000+0000,São Paulo,true,sabor catupiry,massa final,chá gelado,10,45.0
+871,2023-05-24T17:17:45.000+0000,São Paulo,false,sabor catupiry,massa grossa,chá gelado,10,60.75
+872,2023-05-24T17:18:58.000+0000,Santa Catarina,true,borda tradicional,massa integral,vinho tinto,8,40.0
+873,2023-05-24T17:22:08.000+0000,São Paulo,false,sabor catupiry,massa final,vinho tinto,9,41.0
+874,2023-05-24T17:22:58.000+0000,Distrito Federal,true,sabor catupiry,massa final,chá gelado,9,36.5
+875,2023-05-24T17:24:51.000+0000,São Paulo,false,borda tradicional,massa tradicional,,8,29.75
+876,2023-05-24T17:25:00.000+0000,Minas Gerais,true,cheddar,massa tradicional,cerveja,10,53.45
+877,2023-05-24T17:28:00.000+0000,Distrito Federal,true,sabor catupiry,massa tradicional,refrigerante,10,47.45
+878,2023-05-24T17:29:07.000+0000,São Paulo,false,borda tradicional,massa tradicional,chá gelado,6,29.5
+879,2023-05-24T17:30:52.000+0000,Amazonas,true,sabor catupiry,massa tradicional,refrigerante,10,46.0
+880,2023-05-24T17:31:14.000+0000,Paraná,false,borda tradicional,massa tradicional,refrigerante,6,27.5
+881,2023-05-24T17:33:46.000+0000,São Paulo,false,cheddar,massa tradicional,refrigerante,10,48.4
+882,2023-05-24T17:35:56.000+0000,Rio Grande do Sul,false,borda tradicional,massa final,chá gelado,9,32.5
+883,2023-05-24T17:37:59.000+0000,São Paulo,false,sabor catupiry,massa tradicional,refrigerante,10,48.0
+884,2023-05-24T17:38:10.000+0000,Rondônia,true,cream cheese,massa tradicional,suco de laranja,10,53.7
+885,2023-05-24T17:40:42.000+0000,São Paulo,false,borda tradicional,massa integral,suco de abacaxi,10,44.25
+886,2023-05-24T17:43:27.000+0000,São Paulo,true,sabor catupiry,massa tradicional,suco de maracujá,10,44.75
+887,2023-05-24T17:45:42.000+0000,Paraná,true,borda tradicional,massa final,suco de maracujá,10,40.0
+888,2023-05-24T17:48:20.000+0000,São Paulo,false,borda tradicional,massa tradicional,vinho tinto,10,50.25
+889,2023-05-24T17:49:58.000+0000,São Paulo,true,cheddar,massa tradicional,suco de maracujá,10,50.7
+890,2023-05-24T17:54:10.000+0000,Bahia,false,borda tradicional,massa grossa,,9,37.5
+891,2023-05-24T17:58:36.000+0000,Espírito Santo,false,sabor catupiry,massa tradicional,refrigerante,10,45.0
+892,2023-05-24T17:59:25.000+0000,Bahia,true,sabor catupiry,massa integral,limonada,10,56.0
+893,2023-05-24T17:59:59.000+0000,Goiás,true,sabor catupiry,massa tradicional,refrigerante,10,51.7
+894,2023-05-24T18:00:08.000+0000,São Paulo,false,sabor catupiry,massa tradicional,refrigerante,10,45.5
+895,2023-05-24T18:02:29.000+0000,Minas Gerais,true,cheddar,massa tradicional,refrigerante,10,51.45
+896,2023-05-24T18:03:49.000+0000,Sergipe,false,cream cheese,massa final,cerveja,10,57.0
+897,2023-05-24T18:05:28.000+0000,Ceará,false,sabor catupiry,massa tradicional,chá gelado,9,45.75
+898,2023-05-24T18:10:27.000+0000,Paraná,false,borda tradicional,massa grossa,vinho tinto,10,51.5
+899,2023-05-24T18:12:58.000+0000,Rio de Janeiro,true,sabor catupiry,massa final,água com gás,10,41.5
+900,2023-05-24T18:15:12.000+0000,Ceará,true,cream cheese,massa final,refrigerante,10,54.5
+901,2023-05-24T18:16:42.000+0000,Rio de Janeiro,false,cheddar,massa integral,vinho tinto,10,56.2
+902,2023-05-24T18:17:37.000+0000,São Paulo,true,sabor catupiry,massa tradicional,suco de maracujá,10,47.25
+903,2023-05-24T18:18:52.000+0000,Rio de Janeiro,false,sabor catupiry,massa tradicional,refrigerante,10,52.25
+904,2023-05-24T18:20:32.000+0000,São Paulo,false,sabor catupiry,massa tradicional,refrigerante,10,44.5
+905,2023-05-24T18:20:56.000+0000,Rio de Janeiro,true,cream cheese,massa tradicional,água com gás,10,49.75
+906,2023-05-24T18:21:34.000+0000,Paraná,false,borda tradicional,massa final,refrigerante,10,37.25
+907,2023-05-24T18:24:56.000+0000,São Paulo,false,sabor catupiry,massa grossa,suco de maracujá,10,54.0
+908,2023-05-24T18:27:17.000+0000,São Paulo,false,sabor catupiry,massa tradicional,cerveja,10,49.0
+909,2023-05-24T18:29:24.000+0000,Rio de Janeiro,true,sabor catupiry,massa final,cerveja,10,41.25
+910,2023-05-24T18:30:15.000+0000,São Paulo,true,borda tradicional,massa tradicional,limonada,10,39.75
+911,2023-05-24T18:30:52.000+0000,São Paulo,false,sabor catupiry,massa tradicional,vinho tinto,10,52.25
+912,2023-05-24T18:32:02.000+0000,São Paulo,false,sabor catupiry,massa tradicional,,9,39.75
+913,2023-05-24T18:34:19.000+0000,Ceará,true,sabor catupiry,massa grossa,refrigerante,9,51.45
+914,2023-05-24T18:35:05.000+0000,Goiás,false,borda tradicional,massa tradicional,vinho tinto,9,42.75
+915,2023-05-24T18:35:20.000+0000,São Paulo,false,cheddar,massa final,vinho tinto,10,52.45
+916,2023-05-24T18:36:10.000+0000,Minas Gerais,true,sabor catupiry,massa tradicional,vinho tinto,10,53.2
+917,2023-05-24T18:37:54.000+0000,Ceará,true,cream cheese,massa final,cerveja,10,52.0
+918,2023-05-24T18:38:28.000+0000,São Paulo,false,sabor catupiry,massa tradicional,suco de uva,10,48.5
+919,2023-05-24T18:42:14.000+0000,São Paulo,false,sabor catupiry,massa tradicional,água com gás,10,48.75
+920,2023-05-24T18:42:43.000+0000,Distrito Federal,true,sabor catupiry,massa tradicional,refrigerante,8,45.75
+921,2023-05-24T18:45:24.000+0000,Rio de Janeiro,false,borda tradicional,massa final,refrigerante,10,38.25
+922,2023-05-24T18:48:07.000+0000,Rio Grande do Sul,false,borda tradicional,massa tradicional,cerveja,10,42.0
+923,2023-05-24T18:48:29.000+0000,Rio de Janeiro,true,cream cheese,massa tradicional,cerveja,10,54.75
+924,2023-05-24T18:48:49.000+0000,São Paulo,true,borda tradicional,massa final,suco de laranja,10,40.0
+925,2023-05-24T18:49:39.000+0000,Minas Gerais,false,cream cheese,massa final,chá gelado,10,48.0
+926,2023-05-24T18:50:23.000+0000,São Paulo,false,cheddar,massa final,suco de maracujá,9,38.45
+927,2023-05-24T18:55:32.000+0000,Distrito Federal,true,cream cheese,massa tradicional,refrigerante,10,54.5
+928,2023-05-24T19:01:41.000+0000,Bahia,true,sabor catupiry,massa tradicional,suco de maracujá,9,46.75
+929,2023-05-24T19:02:01.000+0000,São Paulo,true,sabor catupiry,massa tradicional,suco de maracujá,10,49.7
+930,2023-05-24T19:03:18.000+0000,Santa Catarina,false,borda tradicional,massa final,cerveja,10,38.25
+931,2023-05-24T19:03:49.000+0000,São Paulo,true,cheddar,massa tradicional,vinho tinto,10,61.4
+932,2023-05-24T19:03:49.000+0000,Rio Grande do Sul,true,borda tradicional,massa tradicional,refrigerante,10,41.95
+933,2023-05-24T19:03:57.000+0000,São Paulo,true,sabor catupiry,massa tradicional,cerveja,10,47.0
+934,2023-05-24T19:04:35.000+0000,Pernambuco,true,cream cheese,massa tradicional,refrigerante,8,51.0
+935,2023-05-24T19:04:54.000+0000,Paraná,true,cream cheese,massa final,vinho tinto,10,52.0
+936,2023-05-24T19:05:09.000+0000,Alagoas,true,sabor catupiry,massa tradicional,suco de laranja,10,49.25
+937,2023-05-24T19:10:55.000+0000,Rio de Janeiro,false,sabor catupiry,massa tradicional,vinho tinto,10,50.75
+938,2023-05-24T19:14:01.000+0000,Paraná,true,cream cheese,massa tradicional,refrigerante,10,54.45
+939,2023-05-24T19:14:13.000+0000,São Paulo,true,borda tradicional,massa final,limonada,10,38.5
+940,2023-05-24T19:17:16.000+0000,São Paulo,false,borda tradicional,massa tradicional,vinho tinto,10,49.75
+941,2023-05-24T19:18:54.000+0000,Maranhão,true,sabor catupiry,massa tradicional,suco de abacaxi,10,52.7
+942,2023-05-24T19:20:04.000+0000,Minas Gerais,true,borda tradicional,massa tradicional,refrigerante,10,44.0
+943,2023-05-24T19:22:42.000+0000,Goiás,false,sabor catupiry,massa tradicional,suco de abacaxi,8,30.75
+944,2023-05-24T19:23:05.000+0000,São Paulo,false,borda tradicional,massa grossa,refrigerante,10,44.25
+945,2023-05-24T19:23:31.000+0000,Minas Gerais,true,sabor catupiry,massa tradicional,suco de laranja,10,45.25
+946,2023-05-24T19:23:37.000+0000,Mato Grosso do Sul,true,borda tradicional,massa final,refrigerante,8,32.75
+947,2023-05-24T19:23:42.000+0000,São Paulo,true,sabor catupiry,massa tradicional,cerveja,8,42.0
+948,2023-05-24T19:24:04.000+0000,São Paulo,true,cheddar,massa grossa,suco de uva,10,52.2
+949,2023-05-24T19:24:22.000+0000,Bahia,true,sabor catupiry,massa tradicional,refrigerante,10,49.45
+950,2023-05-24T19:24:44.000+0000,Pernambuco,false,sabor catupiry,massa tradicional,cerveja,9,52.25
+951,2023-05-24T19:25:00.000+0000,Distrito Federal,false,borda tradicional,massa tradicional,chá gelado,10,44.25
+952,2023-05-24T19:25:19.000+0000,Paraíba,true,borda tradicional,massa tradicional,suco de abacaxi,10,50.25
+953,2023-05-24T19:25:46.000+0000,Ceará,true,cream cheese,massa final,cerveja,10,52.5
+954,2023-05-24T19:26:06.000+0000,Rio de Janeiro,false,sabor catupiry,massa tradicional,cerveja,8,44.5
+955,2023-05-24T19:26:09.000+0000,Pernambuco,true,sabor catupiry,massa tradicional,suco de uva,10,42.95
+956,2023-05-24T19:26:11.000+0000,Ceará,false,cheddar,massa tradicional,suco de maracujá,10,48.7
+957,2023-05-24T19:26:24.000+0000,Ceará,true,cheddar,massa final,refrigerante,10,45.65
+958,2023-05-24T19:26:33.000+0000,Maranhão,true,borda tradicional,massa final,chá gelado,10,41.2
+959,2023-05-24T19:28:02.000+0000,Ceará,true,cream cheese,massa final,vinho tinto,10,62.0
+960,2023-05-24T19:28:53.000+0000,São Paulo,false,sabor catupiry,massa final,suco de laranja,10,43.5
+961,2023-05-24T19:29:38.000+0000,Goiás,true,borda tradicional,massa tradicional,chá gelado,10,39.75
+962,2023-05-24T19:29:40.000+0000,Ceará,true,sabor catupiry,massa tradicional,suco de abacaxi,10,45.7
+963,2023-05-24T19:29:48.000+0000,Goiás,true,cheddar,massa final,refrigerante,10,49.2
+964,2023-05-24T19:30:21.000+0000,São Paulo,false,borda tradicional,massa tradicional,cerveja,7,35.0
+965,2023-05-24T19:31:38.000+0000,São Paulo,false,sabor catupiry,massa final,refrigerante,10,46.25
+966,2023-05-24T19:32:00.000+0000,Minas Gerais,true,borda tradicional,massa grossa,refrigerante,9,37.75
+967,2023-05-24T19:32:33.000+0000,São Paulo,false,sabor catupiry,massa tradicional,cerveja,10,43.5
+968,2023-05-24T19:33:10.000+0000,São Paulo,true,borda tradicional,massa tradicional,refrigerante,8,37.5
+969,2023-05-24T19:34:22.000+0000,São Paulo,false,borda tradicional,massa tradicional,vinho tinto,10,48.7
+970,2023-05-24T19:42:48.000+0000,Distrito Federal,true,cheddar,massa tradicional,suco de abacaxi,7,38.2
+971,2023-05-24T19:43:16.000+0000,São Paulo,true,borda tradicional,massa integral,chá gelado,10,53.75
+972,2023-05-24T19:43:50.000+0000,São Paulo,true,cream cheese,massa tradicional,cerveja,10,50.0
+973,2023-05-24T19:45:38.000+0000,São Paulo,false,sabor catupiry,massa final,suco de laranja,10,46.75
+974,2023-05-24T19:47:07.000+0000,Rio Grande do Sul,true,sabor catupiry,massa tradicional,refrigerante,10,52.95
+975,2023-05-24T19:48:06.000+0000,Rio de Janeiro,true,cheddar,massa final,refrigerante,10,48.2
+976,2023-05-24T19:49:02.000+0000,Ceará,false,borda tradicional,massa tradicional,refrigerante,7,28.5
+977,2023-05-24T19:52:12.000+0000,São Paulo,false,sabor catupiry,massa final,cerveja,10,50.5
+978,2023-05-24T19:52:27.000+0000,Paraná,true,sabor catupiry,massa tradicional,refrigerante,10,48.0
+979,2023-05-24T19:52:34.000+0000,Piauí,false,borda tradicional,massa grossa,água com gás,10,42.0
+980,2023-05-24T19:57:25.000+0000,Minas Gerais,true,borda tradicional,massa final,refrigerante,10,39.75
+981,2023-05-24T19:58:07.000+0000,São Paulo,false,borda tradicional,massa final,refrigerante,10,35.75
+982,2023-05-24T19:58:32.000+0000,São Paulo,false,borda tradicional,massa tradicional,cerveja,10,37.5
+983,2023-05-24T20:02:10.000+0000,São Paulo,false,borda tradicional,massa tradicional,refrigerante,10,46.0
+984,2023-05-24T20:03:02.000+0000,São Paulo,false,borda tradicional,massa tradicional,vinho tinto,10,50.5
+985,2023-05-24T20:05:32.000+0000,Goiás,true,borda tradicional,massa tradicional,refrigerante,10,45.0
+986,2023-05-24T20:06:18.000+0000,Mato Grosso do Sul,false,sabor catupiry,massa grossa,cerveja,10,54.5
+987,2023-05-24T20:06:41.000+0000,Rio Grande do Norte,true,borda tradicional,massa tradicional,cerveja,10,40.0
+988,2023-05-24T20:06:51.000+0000,São Paulo,false,sabor catupiry,massa tradicional,refrigerante,10,48.5
+989,2023-05-24T20:07:41.000+0000,Minas Gerais,false,cream cheese,massa final,vinho tinto,10,58.0
+990,2023-05-24T20:09:13.000+0000,São Paulo,false,sabor catupiry,massa integral,limonada,10,54.25
+991,2023-05-24T20:10:04.000+0000,Maranhão,true,cheddar,massa tradicional,suco de laranja,10,49.7
+992,2023-05-24T20:10:50.000+0000,Rio Grande do Sul,true,cream cheese,massa tradicional,limonada,10,48.25
+993,2023-05-24T20:14:55.000+0000,São Paulo,true,borda tradicional,massa grossa,limonada,6,27.5
+994,2023-05-24T20:15:22.000+0000,Pernambuco,true,borda tradicional,massa tradicional,suco de laranja,10,39.25
+995,2023-05-24T20:15:29.000+0000,Rio Grande do Norte,true,sabor catupiry,massa tradicional,suco de laranja,10,47.25
+996,2023-05-24T20:15:58.000+0000,Alagoas,true,borda tradicional,massa tradicional,suco de laranja,10,41.25
+997,2023-05-24T20:16:37.000+0000,Distrito Federal,false,sabor catupiry,massa tradicional,água com gás,10,47.75
+998,2023-05-24T20:17:48.000+0000,Santa Catarina,true,cream cheese,massa final,limonada,10,49.5
+999,2023-05-24T20:17:49.000+0000,Ceará,true,borda tradicional,massa tradicional,refrigerante,10,36.0
+1000,2023-05-24T20:18:03.000+0000,Paraná,false,sabor catupiry,massa final,água com gás,10,49.0
+1001,2023-05-24T20:18:03.000+0000,São Paulo,true,cheddar,massa tradicional,suco de laranja,10,51.7
+1002,2023-05-24T20:18:08.000+0000,Minas Gerais,false,sabor catupiry,massa tradicional,suco de maracujá,8,37.75
+1003,2023-05-24T20:18:16.000+0000,Pernambuco,true,borda tradicional,massa tradicional,refrigerante,10,38.5
+1004,2023-05-24T20:18:32.000+0000,Pernambuco,false,borda tradicional,massa final,cerveja,10,38.75
+1005,2023-05-24T20:18:34.000+0000,Paraíba,true,borda tradicional,massa tradicional,vinho tinto,10,48.75
+1006,2023-05-24T20:19:15.000+0000,Pará,true,cream cheese,massa final,limonada,10,45.0
+1007,2023-05-24T20:20:38.000+0000,São Paulo,false,borda tradicional,massa final,cerveja,10,38.75
+1008,2023-05-24T20:22:45.000+0000,Bahia,false,sabor catupiry,massa tradicional,vinho tinto,10,49.25
+1009,2023-05-24T20:23:30.000+0000,Amapá,false,sabor catupiry,massa final,refrigerante,10,50.2
+1010,2023-05-24T20:23:39.000+0000,Santa Catarina,false,sabor catupiry,massa tradicional,chá gelado,10,50.7
+1011,2023-05-24T20:23:48.000+0000,São Paulo,false,sabor catupiry,massa tradicional,cerveja,10,45.25
+1012,2023-05-24T20:23:58.000+0000,Bahia,false,sabor catupiry,massa tradicional,cerveja,10,45.5
+1013,2023-05-24T20:24:39.000+0000,Rio de Janeiro,false,sabor catupiry,massa tradicional,refrigerante,10,47.0
+1014,2023-05-24T20:26:01.000+0000,Minas Gerais,true,cheddar,massa tradicional,cerveja,10,52.45
+1015,2023-05-24T20:27:07.000+0000,Rio de Janeiro,false,borda tradicional,massa final,suco de uva,8,36.25
+1016,2023-05-24T20:27:16.000+0000,Rio de Janeiro,false,sabor catupiry,massa final,vinho tinto,10,51.75
+1017,2023-05-24T20:27:23.000+0000,Maranhão,false,borda tradicional,massa final,refrigerante,10,41.7
+1018,2023-05-24T20:28:59.000+0000,São Paulo,false,borda tradicional,massa final,suco de uva,9,27.75
+1019,2023-05-24T20:36:34.000+0000,Paraná,true,sabor catupiry,massa tradicional,refrigerante,8,41.5
+1020,2023-05-24T20:36:55.000+0000,Distrito Federal,true,cheddar,massa tradicional,refrigerante,10,49.45
+1021,2023-05-24T20:39:55.000+0000,São Paulo,false,cream cheese,massa final,vinho tinto,10,50.5
+1022,2023-05-24T20:44:13.000+0000,São Paulo,false,sabor catupiry,massa tradicional,refrigerante,8,40.5
+1023,2023-05-24T20:54:19.000+0000,São Paulo,true,cream cheese,massa tradicional,suco de abacaxi,10,58.25
+1024,2023-05-24T20:55:22.000+0000,São Paulo,true,borda tradicional,massa grossa,limonada,10,39.5
+1025,2023-05-24T20:59:26.000+0000,São Paulo,false,borda tradicional,massa tradicional,água com gás,10,39.25
+1026,2023-05-24T21:02:47.000+0000,São Paulo,false,borda tradicional,massa tradicional,chá gelado,8,23.25
+1027,2023-05-24T21:03:55.000+0000,São Paulo,false,borda tradicional,massa tradicional,vinho tinto,7,37.25
+1028,2023-05-24T21:07:11.000+0000,Santa Catarina,true,borda tradicional,massa final,cerveja,10,36.25
+1029,2023-05-24T21:09:06.000+0000,Santa Catarina,false,cheddar,massa final,refrigerante,10,49.2
+1030,2023-05-24T21:20:26.000+0000,São Paulo,true,sabor catupiry,massa final,água com gás,10,41.5
+1031,2023-05-24T21:21:38.000+0000,Ceará,true,sabor catupiry,massa grossa,refrigerante,9,51.95
+1032,2023-05-24T21:25:31.000+0000,São Paulo,false,borda tradicional,massa tradicional,refrigerante,10,47.75
+1033,2023-05-24T21:35:45.000+0000,São Paulo,false,borda tradicional,massa integral,limonada,8,42.25
+1034,2023-05-24T21:36:24.000+0000,Rio de Janeiro,true,sabor catupiry,massa final,água com gás,10,46.0
+1035,2023-05-24T21:42:23.000+0000,São Paulo,false,cream cheese,massa tradicional,refrigerante,10,56.5
+1036,2023-05-24T21:43:53.000+0000,Espírito Santo,true,sabor catupiry,massa tradicional,cerveja,10,55.75
+1037,2023-05-24T21:46:42.000+0000,Pará,true,sabor catupiry,massa final,limonada,10,39.95
+1038,2023-05-24T21:50:44.000+0000,Maranhão,false,borda tradicional,massa final,água com gás,9,32.95
+1039,2023-05-24T21:52:49.000+0000,Pará,false,borda tradicional,massa tradicional,refrigerante,9,35.95
+1040,2023-05-24T21:59:26.000+0000,São Paulo,true,borda tradicional,massa tradicional,refrigerante,10,41.0
+1041,2023-05-24T22:03:01.000+0000,São Paulo,false,sabor catupiry,massa tradicional,vinho tinto,9,48.25
+1042,2023-05-24T22:05:47.000+0000,Minas Gerais,true,cream cheese,massa tradicional,chá gelado,10,54.75
+1043,2023-05-24T22:15:14.000+0000,Espírito Santo,false,cream cheese,massa grossa,suco de laranja,10,60.25
+1044,2023-05-24T22:35:44.000+0000,São Paulo,false,sabor catupiry,massa final,suco de abacaxi,10,50.25
+1045,2023-05-24T22:38:23.000+0000,Rio Grande do Sul,true,cheddar,massa tradicional,limonada,10,47.2
+1046,2023-05-24T22:52:47.000+0000,São Paulo,false,borda tradicional,massa tradicional,refrigerante,6,33.0
+1047,2023-05-24T22:56:06.000+0000,São Paulo,false,borda tradicional,massa tradicional,limonada,8,34.25
+1048,2023-05-24T23:08:42.000+0000,Minas Gerais,true,sabor catupiry,massa tradicional,suco de maracujá,10,45.25
+1049,2023-05-24T23:14:59.000+0000,São Paulo,false,sabor catupiry,massa grossa,refrigerante,10,55.5
+1050,2023-05-24T23:23:57.000+0000,São Paulo,false,borda tradicional,massa tradicional,limonada,6,25.75
+1051,2023-05-25T00:00:10.000+0000,Rio Grande do Sul,false,borda tradicional,massa grossa,suco de laranja,10,48.0
+1052,2023-05-25T00:22:50.000+0000,Bahia,true,borda tradicional,massa final,cerveja,10,40.2
+1053,2023-05-25T01:05:09.000+0000,Minas Gerais,true,cheddar,massa tradicional,suco de maracujá,9,46.7
+1054,2023-05-25T01:32:42.000+0000,Pernambuco,false,borda tradicional,massa tradicional,água com gás,9,32.25
+1055,2023-05-25T01:53:05.000+0000,Pernambuco,true,borda tradicional,massa tradicional,refrigerante,10,39.5
+1056,2023-05-25T02:19:04.000+0000,Piauí,true,cheddar,massa tradicional,água com gás,10,50.15
+1057,2023-05-25T02:23:56.000+0000,Rio de Janeiro,true,cheddar,massa tradicional,refrigerante,10,52.2
+1058,2023-05-25T05:00:40.000+0000,Rio de Janeiro,true,cream cheese,massa final,suco de laranja,10,44.5
+1059,2023-05-25T05:22:06.000+0000,São Paulo,true,sabor catupiry,massa grossa,refrigerante,10,55.0
+1060,2023-05-25T05:28:17.000+0000,São Paulo,false,sabor catupiry,massa tradicional,refrigerante,7,43.0
+1061,2023-05-25T06:42:22.000+0000,São Paulo,false,cream cheese,massa final,cerveja,10,47.25
+1062,2023-05-25T06:55:33.000+0000,Espírito Santo,true,borda tradicional,massa tradicional,refrigerante,10,47.5
+1063,2023-05-25T07:27:45.000+0000,São Paulo,false,sabor catupiry,massa grossa,suco de laranja,10,51.5
+1064,2023-05-25T07:32:17.000+0000,Tocantins,true,cheddar,massa tradicional,suco de laranja,10,47.15
+1065,2023-05-25T07:32:29.000+0000,Paraná,false,borda tradicional,massa tradicional,vinho tinto,10,44.75
+1066,2023-05-25T07:56:39.000+0000,São Paulo,false,borda tradicional,massa tradicional,cerveja,10,38.5
+1067,2023-05-25T07:56:45.000+0000,Rio de Janeiro,false,cream cheese,massa final,vinho tinto,10,54.5
+1068,2023-05-25T08:05:54.000+0000,São Paulo,false,sabor catupiry,massa final,vinho tinto,8,53.25
+1069,2023-05-25T08:10:37.000+0000,Rio de Janeiro,true,sabor catupiry,massa tradicional,refrigerante,10,46.5
+1070,2023-05-25T08:31:18.000+0000,Paraná,false,borda tradicional,massa tradicional,cerveja,10,44.25
+1071,2023-05-25T08:54:49.000+0000,São Paulo,false,cream cheese,massa tradicional,suco de abacaxi,10,52.0
+1072,2023-05-25T10:22:52.000+0000,Espírito Santo,true,cream cheese,massa grossa,refrigerante,8,51.75
+1073,2023-05-25T10:25:22.000+0000,Espírito Santo,false,borda tradicional,massa final,refrigerante,10,36.75
+1074,2023-05-25T10:31:30.000+0000,Minas Gerais,false,sabor catupiry,massa final,refrigerante,10,43.25
+1075,2023-05-25T10:40:07.000+0000,Bahia,true,sabor catupiry,massa grossa,limonada,10,46.0
+1076,2023-05-25T10:42:00.000+0000,São Paulo,false,borda tradicional,massa final,suco de maracujá,10,38.0
+1077,2023-05-25T10:46:56.000+0000,Bahia,true,borda tradicional,massa tradicional,suco de maracujá,8,27.75
+1078,2023-05-25T10:59:16.000+0000,Ceará,true,sabor catupiry,massa tradicional,suco de laranja,8,42.25
+1079,2023-05-25T11:12:36.000+0000,Distrito Federal,false,sabor catupiry,massa tradicional,refrigerante,10,44.5
+1080,2023-05-25T11:43:38.000+0000,Sergipe,true,borda tradicional,massa grossa,refrigerante,7,35.75
+1081,2023-05-25T12:24:11.000+0000,São Paulo,false,cheddar,massa final,vinho tinto,10,52.45
+1082,2023-05-25T12:31:36.000+0000,São Paulo,false,sabor catupiry,massa tradicional,refrigerante,10,50.0
+1083,2023-05-25T12:38:03.000+0000,Goiás,true,cheddar,massa tradicional,refrigerante,10,48.9
+1084,2023-05-25T12:55:43.000+0000,Bahia,true,borda tradicional,massa final,refrigerante,9,29.75
+1085,2023-05-25T13:04:46.000+0000,Rio de Janeiro,false,sabor catupiry,massa final,chá gelado,10,45.75
+1086,2023-05-25T13:23:43.000+0000,São Paulo,true,sabor catupiry,massa final,água com gás,10,40.5
+1087,2023-05-25T13:36:20.000+0000,Santa Catarina,false,borda tradicional,massa tradicional,cerveja,10,45.75
+1088,2023-05-25T13:38:03.000+0000,Bahia,false,borda tradicional,massa final,vinho tinto,10,49.25
+1089,2023-05-25T13:59:41.000+0000,Bahia,true,sabor catupiry,massa final,cerveja,10,44.75
+1090,2023-05-25T14:06:48.000+0000,Rondônia,false,borda tradicional,massa final,cerveja,10,42.25
+1091,2023-05-25T14:22:50.000+0000,Minas Gerais,true,sabor catupiry,massa grossa,suco de maracujá,8,45.0
+1092,2023-05-25T14:23:32.000+0000,Rondônia,false,borda tradicional,massa tradicional,cerveja,10,47.5
+1093,2023-05-25T15:32:17.000+0000,São Paulo,true,cheddar,massa tradicional,refrigerante,10,53.45
+1094,2023-05-25T16:06:14.000+0000,São Paulo,false,borda tradicional,massa final,cerveja,10,37.25
+1095,2023-05-25T16:09:06.000+0000,Goiás,false,cream cheese,massa tradicional,vinho tinto,10,61.25
+1096,2023-05-25T16:34:44.000+0000,Santa Catarina,true,sabor catupiry,massa tradicional,suco de laranja,10,48.25
+1097,2023-05-25T16:35:45.000+0000,Paraná,false,sabor catupiry,massa tradicional,chá gelado,10,46.75
+1098,2023-05-25T16:38:01.000+0000,Paraná,false,borda tradicional,massa final,refrigerante,10,39.75
+1099,2023-05-25T16:38:25.000+0000,Minas Gerais,true,cheddar,massa tradicional,refrigerante,10,50.9
+1100,2023-05-25T16:45:07.000+0000,Rio de Janeiro,true,borda tradicional,massa grossa,refrigerante,8,39.75
+1101,2023-05-25T16:47:40.000+0000,Sergipe,true,borda tradicional,massa tradicional,vinho tinto,10,50.0
+1102,2023-05-25T16:55:35.000+0000,São Paulo,false,sabor catupiry,massa tradicional,cerveja,10,56.75
+1103,2023-05-25T17:07:05.000+0000,São Paulo,false,borda tradicional,massa final,limonada,10,38.25
+1104,2023-05-25T18:18:02.000+0000,São Paulo,true,sabor catupiry,massa tradicional,suco de maracujá,10,45.75
+1105,2023-05-25T18:27:12.000+0000,São Paulo,false,borda tradicional,massa tradicional,suco de abacaxi,10,38.75
